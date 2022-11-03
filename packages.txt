@@ -1,3 +1,3 @@
 build-essential
-pandas
-plotly
+pandas-dev
+plotly-dev
