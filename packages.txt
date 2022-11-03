@@ -1,4 +1,4 @@
+build-essential
 pandas-dev
 numpy-dev
 plotly-dev
-
