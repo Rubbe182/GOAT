@@ -12,9 +12,10 @@ df_historica_agregada=pd.DataFrame()
 df_historica['Year']=df_clasification['Year']
 df_historica['Week']=df_clasification['Week']
 df_historica['Team']=df_clasification['Team']
-df_historica['Win'], df_historica['Lose'], df_historica['Tie'] = df_clasification['Record'].str.split('-',n=2, expand=True).str
-df_historica['Win']=df_historica['Win'].astype(float)
-df_historica['Lose']=df_historica['Lose'].astype(float)
+split_records = df_clasification['Record'].str.split('-', n=2, expand=True).apply(lambda x: x.str.strip())
+df_historica['Win'] = split_records[0].astype(int)
+df_historica['Lose'] = split_records[1].astype(int)
+df_historica['Tie'] = split_records[2].astype(int)
 df_historica=df_historica[df_historica['Week']==13]
 
 Year=df_historica.Year.unique()
