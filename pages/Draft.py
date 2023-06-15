@@ -17,12 +17,12 @@ position_choice_year = st.radio('Year:', Year,horizontal=True)
 selected_position = st.selectbox('Position', Positions, index=0)
 
 
-if position_choice_year != 'Todos los años':
+if position_choice_year != 'All Seasons':
     df_filtered = df_Draft[df_Draft['Year'] == position_choice_year]
 else:
     df_filtered = df_Draft
-    
-if selected_position != 'Todas las posiciones':
+
+if selected_position != 'All':
     df_filtered = df_filtered[df_filtered['Position'] == selected_position]
 
 # Mostrar la tabla en Streamlit
