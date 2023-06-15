@@ -2,19 +2,28 @@ import pandas as pd
 import streamlit as st
 
 df_Draft = pd.read_csv('Draft.csv',encoding='latin-1')
-df_Draft['Points']=df_Draft['Points'].replace({'-':'0'}).astype(int)
 st.title("DRAFT")
+df_Draft['Points']=df_Draft['Points'].replace({'-':'0'}).astype(int)
 
 
 
-Year=['All Seasons',2019,2020,2021,2022]
+Year = ['All Seasons'] + list(df_Draft['Year'].unique())
+Positions = ['All'] + list(df_Draft['Position'].unique())
+
 Picks=df_Draft.Pick.unique()
 Franchise=df_Draft.Franchise.unique()
-Position=df_Draft.Position.unique()
 
 position_choice_year = st.radio('Year:', Year,horizontal=True)
-position_choice_Picks = st.selectbox('Picks:', Picks)
-position_choice_Franchise = st.multiselect('Franchise:', Franchise)
+selected_position = st.selectbox('Position', Positions, index=0)
+
+
+if position_choice_year != 'Todos los años':
+    df_filtered = df_Draft[df_Draft['Year'] == position_choice_year]
+else:
+    df_filtered = df_Draft
+    
+if selected_position != 'Todas las posiciones':
+    df_filtered = df_filtered[df_filtered['Position'] == selected_position]
 
 # Mostrar la tabla en Streamlit
-st.dataframe(df_Draft)
+st.dataframe(df_filtered)
