@@ -1,26 +1,16 @@
 import pandas as pd
 import streamlit as st
-#import plotly.express as px
 import numpy as np
-
-hide_index_style = """
-    <style>
-        .dataframe th:first-child,
-        .dataframe td:first-child {
-            display: none;
-        }
-    </style>
-"""
 
 
 df_Games = pd.read_csv('df_Games.csv')
 st.title("Historial Partidos")
 st.sidebar.markdown('Historial Partidos Temporada Regular')
 df_Games=df_Games[['Year','Week','Home_Team','Away_Team','Home_Points','Away_Points']]
-Weeks=['1','2','3','4','5','6','7','8','9','10','11','12','13','14']
+Weeks=['1','2','3','4','5','6','7','8','9','10','11','12','13',14]
 df_Games=df_Games[df_Games.Week.isin(Weeks)]
 
-Week=['All Weeks','1','2','3','4','5','6','7','8','9','10','11','12','13','14']
+Week=['All Weeks','1','2','3','4','5','6','7','8','9','10','11','12','13',14]
 Year=['All Seasons',2019,2020,2021,2022]
 Teams=df_Games.Home_Team.unique()
 
@@ -36,27 +26,23 @@ if position_choice_display=='Selección Franquicia':
     if position_choice_year=='All Seasons' and position_choice_week=='All Weeks':
         df_Games = df_Games.loc[(df_Games['Home_Team'].isin(position_choice_Team)) |
                                 (df_Games['Away_Team'].isin(position_choice_Team))]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
     elif position_choice_week=='All Weeks':
         df_Games = df_Games.loc[(df_Games['Home_Team'].isin(position_choice_Team)) |
                                 (df_Games['Away_Team'].isin(position_choice_Team))]
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
     elif position_choice_year=='All Seasons':
         df_Games = df_Games.loc[(df_Games['Home_Team'].isin(position_choice_Team)) |
                                 (df_Games['Away_Team'].isin(position_choice_Team))]
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
     else:
         df_Games = df_Games.loc[(df_Games['Home_Team'].isin(position_choice_Team)) |
                                 (df_Games['Away_Team'].isin(position_choice_Team))]
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
 
 elif position_choice_display=='Head to Head':
     position_choice_Team1 = st.selectbox('Team 1:', Teams)
@@ -66,24 +52,21 @@ elif position_choice_display=='Head to Head':
                                 (df_Games['Away_Team']==(position_choice_Team2))|
                                 (df_Games['Away_Team']==(position_choice_Team1))&
                                 (df_Games['Away_Team']==(position_choice_Team2))]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
     elif position_choice_week=='All Weeks':
         df_Games = df_Games.loc[(df_Games['Home_Team'] == (position_choice_Team1)) &
                                 (df_Games['Away_Team'] == (position_choice_Team2)) |
                                 (df_Games['Away_Team'] == (position_choice_Team1)) &
                                 (df_Games['Away_Team'] == (position_choice_Team2))]
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
     elif position_choice_year=='All Seasons':
         df_Games = df_Games.loc[(df_Games['Home_Team'] == (position_choice_Team1)) &
                                 (df_Games['Away_Team'] == (position_choice_Team2)) |
                                 (df_Games['Away_Team'] == (position_choice_Team1)) &
                                 (df_Games['Away_Team'] == (position_choice_Team2))]
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
     else:
         df_Games = df_Games.loc[(df_Games['Home_Team'] == (position_choice_Team1)) &
                                 (df_Games['Away_Team'] == (position_choice_Team2)) |
@@ -91,23 +74,18 @@ elif position_choice_display=='Head to Head':
                                 (df_Games['Away_Team'] == (position_choice_Team2))]
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
 
 else:
     if position_choice_year=='All Seasons' and position_choice_week=='All Weeks':
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
     elif position_choice_week=='All Weeks':
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
     elif position_choice_year=='All Seasons':
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
     else:
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.write(hide_index_style, unsafe_allow_html=True)
-        st.dataframe(df_Games, height=500)
+        st.dataframe(df_Games, width=2000)
