@@ -14,7 +14,7 @@ Franchise = ['All'] + list(df_Draft['Franchise'].unique())
 position_choice_year = st.radio('Year:', Year,horizontal=True)
 selected_position = st.selectbox('Position', Positions, index=0)
 selected_franchise = st.selectbox('Franchise', Franchise, index=0)
-
+player_search = st.text_input('Buscar Jugador:', '')
 
 if position_choice_year != 'All Seasons':
     df_filtered = df_Draft[df_Draft['Year'] == position_choice_year]
@@ -26,6 +26,10 @@ if selected_position != 'All':
 
 if selected_franchise != 'All':
     df_filtered = df_filtered[df_filtered['Franchise'] == selected_franchise]
+    
+if player_search:
+    df_filtered = df_filtered[df_filtered['Player'].str.contains(player_search, case=False)]
+
 
 # Mostrar la tabla en Streamlit
 st.dataframe(df_filtered)
