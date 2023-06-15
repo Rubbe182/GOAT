@@ -1,342 +1,461 @@
-,Home_Team,Away_Team,Home_Points,Away_Points,Year,Week
-0,Isma Ray Ravens,Jrz French Faulk's,166,206,2019,1
-1,Zgz Marino Phins,Darko LaDainian Texas *,98,157,2019,1
-2,GronkSpike,Javier Big Ben Steelers,255,160,2019,1
-3,The Adam´s Family,San Joe Montana 49ers,192,189,2019,1
-4,Triana Bills Kelly,Indiana James,222,234,2019,1
-5,Franquicia Sin Nombre,NavaWarner Rams,186,150,2019,1
-6,Córdoba Gunslingers Favre,Smith's Terrible Showdown,162,164,2019,1
-7,Vlc Tigers Watt's,Malaka Reed Poe,189,219,2019,1
-8,Zgz Marino Phins,Isma Ray Ravens,148,212,2019,2
-9,Jrz French Faulk's,Darko LaDainian Texas *,129,194,2019,2
-10,The Adam´s Family,GronkSpike,158,206,2019,2
-11,Javier Big Ben Steelers,San Joe Montana 49ers,127,195,2019,2
-12,Franquicia Sin Nombre,Triana Bills Kelly,190,186,2019,2
-13,Indiana James,NavaWarner Rams,204,154,2019,2
-14,Vlc Tigers Watt's,Córdoba Gunslingers Favre,210,193,2019,2
-15,Smith's Terrible Showdown,Malaka Reed Poe,151,173,2019,2
-16,Zgz Marino Phins,Jrz French Faulk's,143,220,2019,3
-17,Darko LaDainian Texas *,Isma Ray Ravens,175,207,2019,3
-18,San Joe Montana 49ers,GronkSpike,175,191,2019,3
-19,Javier Big Ben Steelers,The Adam´s Family,184,202,2019,3
-20,NavaWarner Rams,Triana Bills Kelly,160,200,2019,3
-21,Indiana James,Franquicia Sin Nombre,229,233,2019,3
-22,Malaka Reed Poe,Córdoba Gunslingers Favre,239,198,2019,3
-23,Smith's Terrible Showdown,Vlc Tigers Watt's,186,175,2019,3
-24,GronkSpike,Isma Ray Ravens,153,169,2019,4
-25,San Joe Montana 49ers,Zgz Marino Phins,158,169,2019,4
-26,Jrz French Faulk's,Javier Big Ben Steelers,182,205,2019,4
-27,Darko LaDainian Texas *,The Adam´s Family,212,152,2019,4
-28,Córdoba Gunslingers Favre,Indiana James,159,131,2019,4
-29,Malaka Reed Poe,Franquicia Sin Nombre,189,191,2019,4
-30,NavaWarner Rams,Smith's Terrible Showdown,180,179,2019,4
-31,Triana Bills Kelly,Vlc Tigers Watt's,211,157,2019,4
-32,Vlc Tigers Watt's,Isma Ray Ravens,164,205,2019,5
-33,Córdoba Gunslingers Favre,Zgz Marino Phins,147,103,2019,5
-34,Triana Bills Kelly,GronkSpike,235,170,2019,5
-35,Franquicia Sin Nombre,The Adam´s Family,188,173,2019,5
-36,Javier Big Ben Steelers,Indiana James,206,205,2019,5
-37,San Joe Montana 49ers,NavaWarner Rams,144,145,2019,5
-38,Jrz French Faulk's,Smith's Terrible Showdown,189,257,2019,5
-39,Darko LaDainian Texas *,Malaka Reed Poe,205,156,2019,5
-40,The Adam´s Family,Jrz French Faulk's,146,160,2019,6
-41,GronkSpike,Darko LaDainian Texas *,171,168,2019,6
-42,Zgz Marino Phins,Javier Big Ben Steelers,170,164,2019,6
-43,Isma Ray Ravens,San Joe Montana 49ers,163,150,2019,6
-44,Vlc Tigers Watt's,Indiana James,147,145,2019,6
-45,Córdoba Gunslingers Favre,NavaWarner Rams,178,107,2019,6
-46,Franquicia Sin Nombre,Smith's Terrible Showdown,169,148,2019,6
-47,Triana Bills Kelly,Malaka Reed Poe,190,149,2019,6
-48,Indiana James,Isma Ray Ravens,131,117,2019,7
-49,NavaWarner Rams,Zgz Marino Phins,199,100,2019,7
-50,Malaka Reed Poe,GronkSpike,160,147,2019,7
-51,Smith's Terrible Showdown,The Adam´s Family,205,104,2019,7
-52,Jrz French Faulk's,Triana Bills Kelly,188,169,2019,7
-53,Darko LaDainian Texas *,Franquicia Sin Nombre,158,155,2019,7
-54,San Joe Montana 49ers,Córdoba Gunslingers Favre,170,183,2019,7
-55,Javier Big Ben Steelers,Vlc Tigers Watt's,210,160,2019,7
-56,Vlc Tigers Watt's,Jrz French Faulk's,156,190,2019,8
-57,Smith's Terrible Showdown,Darko LaDainian Texas *,216,208,2019,8
-58,Indiana James,GronkSpike,173,183,2019,8
-59,Franquicia Sin Nombre,San Joe Montana 49ers,205,154,2019,8
-60,Javier Big Ben Steelers,Triana Bills Kelly,175,139,2019,8
-61,The Adam´s Family,NavaWarner Rams,147,238,2019,8
-62,Isma Ray Ravens,Córdoba Gunslingers Favre,183,200,2019,8
-63,Zgz Marino Phins,Malaka Reed Poe,149,204,2019,8
-64,San Joe Montana 49ers,Jrz French Faulk's,195,225,2019,9
-65,The Adam´s Family,Isma Ray Ravens,158,198,2019,9
-66,Javier Big Ben Steelers,Darko LaDainian Texas *,179,158,2019,9
-67,GronkSpike,Zgz Marino Phins,155,186,2019,9
-68,Malaka Reed Poe,Indiana James,180,169,2019,9
-69,Smith's Terrible Showdown,Triana Bills Kelly,178,165,2019,9
-70,Vlc Tigers Watt's,NavaWarner Rams,198,172,2019,9
-71,Córdoba Gunslingers Favre,Franquicia Sin Nombre,211,161,2019,9
-72,Isma Ray Ravens,Javier Big Ben Steelers,166,151,2019,10
-73,Jrz French Faulk's,GronkSpike,201,201,2019,10
-74,Darko LaDainian Texas *,San Joe Montana 49ers,160,188,2019,10
-75,Zgz Marino Phins,The Adam´s Family,124,127,2019,10
-76,Indiana James,Smith's Terrible Showdown,140,155,2019,10
-77,Triana Bills Kelly,Córdoba Gunslingers Favre,243,149,2019,10
-78,NavaWarner Rams,Malaka Reed Poe,182,184,2019,10
-79,Franquicia Sin Nombre,Vlc Tigers Watt's,137,186,2019,10
-80,Jrz French Faulk's,Isma Ray Ravens,201,117,2019,11
-81,Darko LaDainian Texas *,Zgz Marino Phins,170,174,2019,11
-82,Javier Big Ben Steelers,GronkSpike,173,121,2019,11
-83,San Joe Montana 49ers,The Adam´s Family,151,152,2019,11
-84,Indiana James,Triana Bills Kelly,159,214,2019,11
-85,NavaWarner Rams,Franquicia Sin Nombre,139,193,2019,11
-86,Smith's Terrible Showdown,Córdoba Gunslingers Favre,199,177,2019,11
-87,Malaka Reed Poe,Vlc Tigers Watt's,184,159,2019,11
-88,Darko LaDainian Texas *,Jrz French Faulk's,215,146,2019,12
-89,Isma Ray Ravens,Zgz Marino Phins,171,195,2019,12
-90,San Joe Montana 49ers,Javier Big Ben Steelers,109,160,2019,12
-91,GronkSpike,The Adam´s Family,147,148,2019,12
-92,NavaWarner Rams,Indiana James,185,128,2019,12
-93,Triana Bills Kelly,Franquicia Sin Nombre,214,209,2019,12
-94,Malaka Reed Poe,Smith's Terrible Showdown,197,156,2019,12
-95,Córdoba Gunslingers Favre,Vlc Tigers Watt's,142,160,2019,12
-96,Isma Ray Ravens,Darko LaDainian Texas *,210,192,2019,13
-97,Jrz French Faulk's,Zgz Marino Phins,163,194,2019,13
-98,The Adam´s Family,Javier Big Ben Steelers,100,199,2019,13
-99,GronkSpike,San Joe Montana 49ers,152,175,2019,13
-100,Franquicia Sin Nombre,Indiana James,186,137,2019,13
-101,Triana Bills Kelly,NavaWarner Rams,176,171,2019,13
-102,Vlc Tigers Watt's,Smith's Terrible Showdown,179,215,2019,13
-103,Córdoba Gunslingers Favre,Malaka Reed Poe,178,174,2019,13
-104,Darko LaDainian Texas *,Isma Ray Ravens,215,213,2019,Divisional playoffs 
-105,Triana Bills Kelly,Franquicia Sin Nombre,145,142,2019,Divisional playoffs 
-106,Malaka Reed Poe,Smith's Terrible Showdown,180,199,2019,Divisional playoffs 
-107,Jrz French Faulk's,Javier Big Ben Steelers,196,179,2019,Divisional playoffs 
-112,Jrz French Faulk's,Darko LaDainian Texas *,169,183,2019,Conference Championship
-113,Smith's Terrible Showdown,Triana Bills Kelly,222,199,2019,Conference Championship
-120,Smith's Terrible Showdown,Darko LaDainian Texas *,163,188,2019,GOAT Bowl
-0,Isma Ray Ravens,Jrz French Faulk's,187,143,2020,1
-1,Zgz Marino Phins,Darko LaDainian Texas *,204,184,2020,1
-2,GronkSpike,Javier Big Ben Steelers,221,171,2020,1
-3,The Adam´s Family,San Joe Montana 49ers,155,214,2020,1
-4,Triana Bills Kelly,Indiana James,182,142,2020,1
-5,Pittsburgh Terror Lambert,El Predicador Almogávar,0,140,2020,1
-6,Córdoba Gunslingers Favre,Smith's Terrible Showdown,174,197,2020,1
-7,Vlc Tigers Watt's,Malaka Reed Poe,202,194,2020,1
-8,Zgz Marino Phins,Isma Ray Ravens,174,167,2020,2
-9,Jrz French Faulk's,Darko LaDainian Texas *,191,171,2020,2
-10,The Adam´s Family,GronkSpike,162,182,2020,2
-11,Javier Big Ben Steelers,San Joe Montana 49ers,196,210,2020,2
-12,Pittsburgh Terror Lambert,Triana Bills Kelly,0,226,2020,2
-13,Indiana James,El Predicador Almogávar,165,173,2020,2
-14,Vlc Tigers Watt's,Córdoba Gunslingers Favre,205,192,2020,2
-15,Smith's Terrible Showdown,Malaka Reed Poe,274,167,2020,2
-16,Zgz Marino Phins,Jrz French Faulk's,165,218,2020,3
-17,Darko LaDainian Texas *,Isma Ray Ravens,170,211,2020,3
-18,San Joe Montana 49ers,GronkSpike,181,209,2020,3
-19,Javier Big Ben Steelers,The Adam´s Family,182,166,2020,3
-20,El Predicador Almogávar,Triana Bills Kelly,166,231,2020,3
-21,Indiana James,Pittsburgh Terror Lambert,107,179,2020,3
-22,Malaka Reed Poe,Córdoba Gunslingers Favre,154,177,2020,3
-23,Smith's Terrible Showdown,Vlc Tigers Watt's,155,178,2020,3
-24,GronkSpike,Isma Ray Ravens,176,200,2020,4
-25,San Joe Montana 49ers,Zgz Marino Phins,208,169,2020,4
-26,Jrz French Faulk's,Javier Big Ben Steelers,202,131,2020,4
-27,Darko LaDainian Texas *,The Adam´s Family,165,133,2020,4
-28,Córdoba Gunslingers Favre,Indiana James,173,199,2020,4
-29,Malaka Reed Poe,Pittsburgh Terror Lambert,240,163,2020,4
-30,El Predicador Almogávar,Smith's Terrible Showdown,174,171,2020,4
-31,Triana Bills Kelly,Vlc Tigers Watt's,168,167,2020,4
-32,Vlc Tigers Watt's,Isma Ray Ravens,201,178,2020,5
-33,Córdoba Gunslingers Favre,Zgz Marino Phins,178,159,2020,5
-34,Triana Bills Kelly,GronkSpike,135,181,2020,5
-35,Pittsburgh Terror Lambert,The Adam´s Family,166,160,2020,5
-36,Javier Big Ben Steelers,Indiana James,201,124,2020,5
-37,San Joe Montana 49ers,El Predicador Almogávar,129,132,2020,5
-38,Jrz French Faulk's,Smith's Terrible Showdown,159,126,2020,5
-39,Darko LaDainian Texas *,Malaka Reed Poe,253,196,2020,5
-40,The Adam´s Family,Jrz French Faulk's,129,196,2020,6
-41,GronkSpike,Darko LaDainian Texas *,220,177,2020,6
-42,Zgz Marino Phins,Javier Big Ben Steelers,146,184,2020,6
-43,Isma Ray Ravens,San Joe Montana 49ers,224,119,2020,6
-44,Vlc Tigers Watt's,Indiana James,238,179,2020,6
-45,Córdoba Gunslingers Favre,El Predicador Almogávar,123,171,2020,6
-46,Pittsburgh Terror Lambert,Smith's Terrible Showdown,97,138,2020,6
-47,Triana Bills Kelly,Malaka Reed Poe,159,154,2020,6
-48,Indiana James,Isma Ray Ravens,125,183,2020,7
-49,El Predicador Almogávar,Zgz Marino Phins,153,177,2020,7
-50,Malaka Reed Poe,GronkSpike,119,182,2020,7
-51,Smith's Terrible Showdown,The Adam´s Family,130,135,2020,7
-52,Jrz French Faulk's,Triana Bills Kelly,248,232,2020,7
-53,Darko LaDainian Texas *,Pittsburgh Terror Lambert,167,94,2020,7
-54,San Joe Montana 49ers,Córdoba Gunslingers Favre,157,222,2020,7
-55,Javier Big Ben Steelers,Vlc Tigers Watt's,180,212,2020,7
-56,Vlc Tigers Watt's,Jrz French Faulk's,158,194,2020,8
-57,Smith's Terrible Showdown,Darko LaDainian Texas *,148,177,2020,8
-58,Indiana James,GronkSpike,115,207,2020,8
-59,Pittsburgh Terror Lambert,San Joe Montana 49ers,159,183,2020,8
-60,Javier Big Ben Steelers,Triana Bills Kelly,187,192,2020,8
-61,The Adam´s Family,El Predicador Almogávar,177,127,2020,8
-62,Isma Ray Ravens,Córdoba Gunslingers Favre,177,153,2020,8
-63,Zgz Marino Phins,Malaka Reed Poe,143,200,2020,8
-64,San Joe Montana 49ers,Jrz French Faulk's,164,174,2020,9
-65,The Adam´s Family,Isma Ray Ravens,168,226,2020,9
-66,Javier Big Ben Steelers,Darko LaDainian Texas *,168,171,2020,9
-67,GronkSpike,Zgz Marino Phins,161,133,2020,9
-68,Malaka Reed Poe,Indiana James,177,106,2020,9
-69,Smith's Terrible Showdown,Triana Bills Kelly,235,168,2020,9
-70,Vlc Tigers Watt's,El Predicador Almogávar,184,161,2020,9
-71,Córdoba Gunslingers Favre,Pittsburgh Terror Lambert,179,140,2020,9
-72,Isma Ray Ravens,Javier Big Ben Steelers,157,164,2020,10
-73,Jrz French Faulk's,GronkSpike,184,227,2020,10
-74,Darko LaDainian Texas *,San Joe Montana 49ers,177,106,2020,10
-75,Zgz Marino Phins,The Adam´s Family,101,101,2020,10
-76,Indiana James,Smith's Terrible Showdown,96,158,2020,10
-77,Triana Bills Kelly,Córdoba Gunslingers Favre,193,144,2020,10
-78,El Predicador Almogávar,Malaka Reed Poe,140,149,2020,10
-79,Pittsburgh Terror Lambert,Vlc Tigers Watt's,131,186,2020,10
-80,Jrz French Faulk's,Isma Ray Ravens,123,236,2020,11
-81,Darko LaDainian Texas *,Zgz Marino Phins,213,164,2020,11
-82,Javier Big Ben Steelers,GronkSpike,149,187,2020,11
-83,San Joe Montana 49ers,The Adam´s Family,130,169,2020,11
-84,Indiana James,Triana Bills Kelly,139,139,2020,11
-85,El Predicador Almogávar,Pittsburgh Terror Lambert,128,153,2020,11
-86,Smith's Terrible Showdown,Córdoba Gunslingers Favre,215,155,2020,11
-87,Malaka Reed Poe,Vlc Tigers Watt's,171,193,2020,11
-88,Darko LaDainian Texas *,Jrz French Faulk's,181,172,2020,12
-89,Isma Ray Ravens,Zgz Marino Phins,185,161,2020,12
-90,San Joe Montana 49ers,Javier Big Ben Steelers,186,167,2020,12
-91,GronkSpike,The Adam´s Family,122,165,2020,12
-92,El Predicador Almogávar,Indiana James,151,137,2020,12
-93,Triana Bills Kelly,Pittsburgh Terror Lambert,267,115,2020,12
-94,Malaka Reed Poe,Smith's Terrible Showdown,155,235,2020,12
-95,Córdoba Gunslingers Favre,Vlc Tigers Watt's,199,226,2020,12
-96,Isma Ray Ravens,Darko LaDainian Texas *,181,148,2020,13
-97,Jrz French Faulk's,Zgz Marino Phins,132,163,2020,13
-98,The Adam´s Family,Javier Big Ben Steelers,155,215,2020,13
-99,GronkSpike,San Joe Montana 49ers,146,136,2020,13
-100,Pittsburgh Terror Lambert,Indiana James,130,161,2020,13
-101,Triana Bills Kelly,El Predicador Almogávar,211,179,2020,13
-102,Vlc Tigers Watt's,Smith's Terrible Showdown,179,185,2020,13
-103,Córdoba Gunslingers Favre,Malaka Reed Poe,202,224,2020,13
-104,Jrz French Faulk's,GronkSpike,186,150,2020,Divisional playoffs 
-105,El Predicador Almogávar,Vlc Tigers Watt's,182,211,2020,Divisional playoffs 
-106,Smith's Terrible Showdown,Triana Bills Kelly,228,214,2020,Divisional playoffs 
-107,Darko LaDainian Texas *,Isma Ray Ravens,147,175,2020,Divisional playoffs 
-112,Isma Ray Ravens,Jrz French Faulk's,245,155,2020,Conference Championship
-113,Smith's Terrible Showdown,Vlc Tigers Watt's,143,182,2020,Conference Championship
-120,Vlc Tigers Watt's,Isma Ray Ravens,167,199,2020,GOAT Bowl
-0,Mile High Champ's,Zgz Marino Phins,173,165,2021,1
-1,Jrz French Faulk's,Isma Ray Ravens,189,169,2021,1
-2,San Joe Montana 49ers,The Adam´s Family,193,152,2021,1
-3,Javier Big Ben Steelers,GronkSpike,167,158,2021,1
-4,El Predicador Almogávar,Pittsburgh Terror Lambert,188,156,2021,1
-5,Indiana James,Nafarroa Bills Kelly,115,167,2021,1
-6,Malaka Reed Poe,Vlc Tigers Watt's,172,206,2021,1
-7,Smith's Terrible Showdown,Córdoba Gunslingers Favre,167,170,2021,1
-8,Mile High Champ's,Jrz French Faulk's,136,199,2021,2
-9,Zgz Marino Phins,Isma Ray Ravens,137,156,2021,2
-10,San Joe Montana 49ers,Javier Big Ben Steelers,141,156,2021,2
-11,The Adam´s Family,GronkSpike,160,265,2021,2
-12,El Predicador Almogávar,Indiana James,153,141,2021,2
-13,Pittsburgh Terror Lambert,Nafarroa Bills Kelly,158,142,2021,2
-14,Malaka Reed Poe,Smith's Terrible Showdown,188,176,2021,2
-15,Vlc Tigers Watt's,Córdoba Gunslingers Favre,194,152,2021,2
-16,Mile High Champ's,Isma Ray Ravens,144,153,2021,3
-17,Zgz Marino Phins,Jrz French Faulk's,136,191,2021,3
-18,San Joe Montana 49ers,GronkSpike,153,171,2021,3
-19,The Adam´s Family,Javier Big Ben Steelers,161,149,2021,3
-20,El Predicador Almogávar,Nafarroa Bills Kelly,144,181,2021,3
-21,Pittsburgh Terror Lambert,Indiana James,152,184,2021,3
-22,Malaka Reed Poe,Córdoba Gunslingers Favre,116,220,2021,3
-23,Vlc Tigers Watt's,Smith's Terrible Showdown,159,143,2021,3
-24,Mile High Champ's,San Joe Montana 49ers,160,183,2021,4
-25,Zgz Marino Phins,The Adam´s Family,153,172,2021,4
-26,Jrz French Faulk's,GronkSpike,137,198,2021,4
-27,Isma Ray Ravens,Javier Big Ben Steelers,199,129,2021,4
-28,El Predicador Almogávar,Vlc Tigers Watt's,114,169,2021,4
-29,Pittsburgh Terror Lambert,Córdoba Gunslingers Favre,129,139,2021,4
-30,Indiana James,Malaka Reed Poe,120,105,2021,4
-31,Nafarroa Bills Kelly,Smith's Terrible Showdown,161,172,2021,4
-32,Mile High Champ's,El Predicador Almogávar,171,122,2021,5
-33,Zgz Marino Phins,Pittsburgh Terror Lambert,126,151,2021,5
-34,Jrz French Faulk's,Indiana James,139,156,2021,5
-35,Isma Ray Ravens,Nafarroa Bills Kelly,180,226,2021,5
-36,San Joe Montana 49ers,Malaka Reed Poe,189,105,2021,5
-37,The Adam´s Family,Vlc Tigers Watt's,166,145,2021,5
-38,Javier Big Ben Steelers,Smith's Terrible Showdown,195,208,2021,5
-39,GronkSpike,Córdoba Gunslingers Favre,193,227,2021,5
-40,Mile High Champ's,Malaka Reed Poe,159,145,2021,6
-41,Zgz Marino Phins,Córdoba Gunslingers Favre,146,138,2021,6
-42,Jrz French Faulk's,Smith's Terrible Showdown,172,144,2021,6
-43,Isma Ray Ravens,Vlc Tigers Watt's,165,182,2021,6
-44,San Joe Montana 49ers,El Predicador Almogávar,184,139,2021,6
-45,The Adam´s Family,Pittsburgh Terror Lambert,136,139,2021,6
-46,Javier Big Ben Steelers,Indiana James,180,117,2021,6
-47,GronkSpike,Nafarroa Bills Kelly,214,174,2021,6
-48,Mile High Champ's,GronkSpike,171,169,2021,7
-49,Zgz Marino Phins,Javier Big Ben Steelers,169,166,2021,7
-50,Jrz French Faulk's,The Adam´s Family,169,124,2021,7
-51,Isma Ray Ravens,San Joe Montana 49ers,141,145,2021,7
-52,El Predicador Almogávar,Córdoba Gunslingers Favre,125,70,2021,7
-53,Pittsburgh Terror Lambert,Smith's Terrible Showdown,142,146,2021,7
-54,Indiana James,Vlc Tigers Watt's,104,170,2021,7
-55,Nafarroa Bills Kelly,Malaka Reed Poe,199,121,2021,7
-56,Mile High Champ's,Pittsburgh Terror Lambert,134,154,2021,8
-57,Zgz Marino Phins,El Predicador Almogávar,163,141,2021,8
-58,Jrz French Faulk's,Nafarroa Bills Kelly,202,167,2021,8
-59,Isma Ray Ravens,Indiana James,199,137,2021,8
-60,San Joe Montana 49ers,Córdoba Gunslingers Favre,175,129,2021,8
-61,The Adam´s Family,Smith's Terrible Showdown,162,165,2021,8
-62,Javier Big Ben Steelers,Vlc Tigers Watt's,136,150,2021,8
-63,GronkSpike,Malaka Reed Poe,178,108,2021,8
-64,Mile High Champ's,Córdoba Gunslingers Favre,163,153,2021,9
-65,Zgz Marino Phins,Vlc Tigers Watt's,130,182,2021,9
-66,Jrz French Faulk's,Malaka Reed Poe,147,122,2021,9
-67,Isma Ray Ravens,Smith's Terrible Showdown,151,125,2021,9
-68,San Joe Montana 49ers,Pittsburgh Terror Lambert,113,136,2021,9
-69,The Adam´s Family,El Predicador Almogávar,128,109,2021,9
-70,Javier Big Ben Steelers,Nafarroa Bills Kelly,190,168,2021,9
-71,GronkSpike,Indiana James,174,133,2021,9
-72,Mile High Champ's,Javier Big Ben Steelers,127,145,2021,10
-73,Zgz Marino Phins,GronkSpike,186,128,2021,10
-74,Jrz French Faulk's,San Joe Montana 49ers,131,126,2021,10
-75,Isma Ray Ravens,The Adam´s Family,214,135,2021,10
-76,El Predicador Almogávar,Smith's Terrible Showdown,113,181,2021,10
-77,Pittsburgh Terror Lambert,Malaka Reed Poe,102,144,2021,10
-78,Indiana James,Córdoba Gunslingers Favre,114,144,2021,10
-79,Nafarroa Bills Kelly,Vlc Tigers Watt's,149,151,2021,10
-80,Mile High Champ's,The Adam´s Family,102,137,2021,11
-81,Zgz Marino Phins,San Joe Montana 49ers,176,82,2021,11
-82,Jrz French Faulk's,Javier Big Ben Steelers,91,121,2021,11
-83,Isma Ray Ravens,GronkSpike,163,178,2021,11
-84,El Predicador Almogávar,Malaka Reed Poe,102,142,2021,11
-85,Pittsburgh Terror Lambert,Vlc Tigers Watt's,167,180,2021,11
-86,Indiana James,Smith's Terrible Showdown,151,137,2021,11
-87,Nafarroa Bills Kelly,Córdoba Gunslingers Favre,194,123,2021,11
-88,Mile High Champ's,Zgz Marino Phins,144,187,2021,12
-89,Jrz French Faulk's,Isma Ray Ravens,133,191,2021,12
-90,San Joe Montana 49ers,The Adam´s Family,147,147,2021,12
-91,Javier Big Ben Steelers,GronkSpike,167,152,2021,12
-92,El Predicador Almogávar,Pittsburgh Terror Lambert,149,159,2021,12
-93,Indiana James,Nafarroa Bills Kelly,124,156,2021,12
-94,Malaka Reed Poe,Vlc Tigers Watt's,143,132,2021,12
-95,Smith's Terrible Showdown,Córdoba Gunslingers Favre,163,99,2021,12
-96,Mile High Champ's,Jrz French Faulk's,148,179,2021,13
-97,Zgz Marino Phins,Isma Ray Ravens,158,147,2021,13
-98,San Joe Montana 49ers,Javier Big Ben Steelers,168,149,2021,13
-99,The Adam´s Family,GronkSpike,154,191,2021,13
-100,El Predicador Almogávar,Indiana James,160,174,2021,13
-101,Pittsburgh Terror Lambert,Nafarroa Bills Kelly,146,139,2021,13
-102,Malaka Reed Poe,Smith's Terrible Showdown,103,163,2021,13
-103,Vlc Tigers Watt's,Córdoba Gunslingers Favre,147,113,2021,13
-104,Mile High Champ's,Isma Ray Ravens,127,147,2021,14
-105,Zgz Marino Phins,Jrz French Faulk's,133,182,2021,14
-106,San Joe Montana 49ers,GronkSpike,146,167,2021,14
-107,The Adam´s Family,Javier Big Ben Steelers,114,153,2021,14
-108,El Predicador Almogávar,Nafarroa Bills Kelly,167,166,2021,14
-109,Pittsburgh Terror Lambert,Indiana James,174,189,2021,14
-110,Malaka Reed Poe,Córdoba Gunslingers Favre,125,162,2021,14
-111,Vlc Tigers Watt's,Smith's Terrible Showdown,154,173,2021,14
-112,Nafarroa Bills Kelly,Vlc Tigers Watt's,153,178,2021,Divisional playoffs 
-113,Javier Big Ben Steelers,Jrz French Faulk's,109,176,2021,Divisional playoffs 
-114,Isma Ray Ravens,GronkSpike,149,136,2021,Divisional playoffs 
-115,Smith's Terrible Showdown,Pittsburgh Terror Lambert,172,121,2021,Divisional playoffs 
-120,Smith's Terrible Showdown,Vlc Tigers Watt's,144,154,2021,Conference Championship
-121,Isma Ray Ravens,Jrz French Faulk's,149,158,2021,Conference Championship
-128,Jrz French Faulk's,Vlc Tigers Watt's,158,189,2021,GOAT Bowl
+,Unnamed: 0,Home_Team,Away_Team,Home_Points,Away_Points,Year,Week
+0,0.0,Isma Ray Ravens,Jrz French Faulk's,166,206,2019,1
+1,1.0,Zgz Marino Phins,Darko LaDainian Texas *,98,157,2019,1
+2,2.0,GronkSpike,Javier Big Ben Steelers,255,160,2019,1
+3,3.0,The Adam´s Family,San Joe Montana 49ers,192,189,2019,1
+4,4.0,Triana Bills Kelly,Indiana James,222,234,2019,1
+5,5.0,Franquicia Sin Nombre,NavaWarner Rams,186,150,2019,1
+6,6.0,Córdoba Gunslingers Favre,Smith's Terrible Showdown,162,164,2019,1
+7,7.0,Vlc Tigers Watt's,Malaka Reed Poe,189,219,2019,1
+8,8.0,Zgz Marino Phins,Isma Ray Ravens,148,212,2019,2
+9,9.0,Jrz French Faulk's,Darko LaDainian Texas *,129,194,2019,2
+10,10.0,The Adam´s Family,GronkSpike,158,206,2019,2
+11,11.0,Javier Big Ben Steelers,San Joe Montana 49ers,127,195,2019,2
+12,12.0,Franquicia Sin Nombre,Triana Bills Kelly,190,186,2019,2
+13,13.0,Indiana James,NavaWarner Rams,204,154,2019,2
+14,14.0,Vlc Tigers Watt's,Córdoba Gunslingers Favre,210,193,2019,2
+15,15.0,Smith's Terrible Showdown,Malaka Reed Poe,151,173,2019,2
+16,16.0,Zgz Marino Phins,Jrz French Faulk's,143,220,2019,3
+17,17.0,Darko LaDainian Texas *,Isma Ray Ravens,175,207,2019,3
+18,18.0,San Joe Montana 49ers,GronkSpike,175,191,2019,3
+19,19.0,Javier Big Ben Steelers,The Adam´s Family,184,202,2019,3
+20,20.0,NavaWarner Rams,Triana Bills Kelly,160,200,2019,3
+21,21.0,Indiana James,Franquicia Sin Nombre,229,233,2019,3
+22,22.0,Malaka Reed Poe,Córdoba Gunslingers Favre,239,198,2019,3
+23,23.0,Smith's Terrible Showdown,Vlc Tigers Watt's,186,175,2019,3
+24,24.0,GronkSpike,Isma Ray Ravens,153,169,2019,4
+25,25.0,San Joe Montana 49ers,Zgz Marino Phins,158,169,2019,4
+26,26.0,Jrz French Faulk's,Javier Big Ben Steelers,182,205,2019,4
+27,27.0,Darko LaDainian Texas *,The Adam´s Family,212,152,2019,4
+28,28.0,Córdoba Gunslingers Favre,Indiana James,159,131,2019,4
+29,29.0,Malaka Reed Poe,Franquicia Sin Nombre,189,191,2019,4
+30,30.0,NavaWarner Rams,Smith's Terrible Showdown,180,179,2019,4
+31,31.0,Triana Bills Kelly,Vlc Tigers Watt's,211,157,2019,4
+32,32.0,Vlc Tigers Watt's,Isma Ray Ravens,164,205,2019,5
+33,33.0,Córdoba Gunslingers Favre,Zgz Marino Phins,147,103,2019,5
+34,34.0,Triana Bills Kelly,GronkSpike,235,170,2019,5
+35,35.0,Franquicia Sin Nombre,The Adam´s Family,188,173,2019,5
+36,36.0,Javier Big Ben Steelers,Indiana James,206,205,2019,5
+37,37.0,San Joe Montana 49ers,NavaWarner Rams,144,145,2019,5
+38,38.0,Jrz French Faulk's,Smith's Terrible Showdown,189,257,2019,5
+39,39.0,Darko LaDainian Texas *,Malaka Reed Poe,205,156,2019,5
+40,40.0,The Adam´s Family,Jrz French Faulk's,146,160,2019,6
+41,41.0,GronkSpike,Darko LaDainian Texas *,171,168,2019,6
+42,42.0,Zgz Marino Phins,Javier Big Ben Steelers,170,164,2019,6
+43,43.0,Isma Ray Ravens,San Joe Montana 49ers,163,150,2019,6
+44,44.0,Vlc Tigers Watt's,Indiana James,147,145,2019,6
+45,45.0,Córdoba Gunslingers Favre,NavaWarner Rams,178,107,2019,6
+46,46.0,Franquicia Sin Nombre,Smith's Terrible Showdown,169,148,2019,6
+47,47.0,Triana Bills Kelly,Malaka Reed Poe,190,149,2019,6
+48,48.0,Indiana James,Isma Ray Ravens,131,117,2019,7
+49,49.0,NavaWarner Rams,Zgz Marino Phins,199,100,2019,7
+50,50.0,Malaka Reed Poe,GronkSpike,160,147,2019,7
+51,51.0,Smith's Terrible Showdown,The Adam´s Family,205,104,2019,7
+52,52.0,Jrz French Faulk's,Triana Bills Kelly,188,169,2019,7
+53,53.0,Darko LaDainian Texas *,Franquicia Sin Nombre,158,155,2019,7
+54,54.0,San Joe Montana 49ers,Córdoba Gunslingers Favre,170,183,2019,7
+55,55.0,Javier Big Ben Steelers,Vlc Tigers Watt's,210,160,2019,7
+56,56.0,Vlc Tigers Watt's,Jrz French Faulk's,156,190,2019,8
+57,57.0,Smith's Terrible Showdown,Darko LaDainian Texas *,216,208,2019,8
+58,58.0,Indiana James,GronkSpike,173,183,2019,8
+59,59.0,Franquicia Sin Nombre,San Joe Montana 49ers,205,154,2019,8
+60,60.0,Javier Big Ben Steelers,Triana Bills Kelly,175,139,2019,8
+61,61.0,The Adam´s Family,NavaWarner Rams,147,238,2019,8
+62,62.0,Isma Ray Ravens,Córdoba Gunslingers Favre,183,200,2019,8
+63,63.0,Zgz Marino Phins,Malaka Reed Poe,149,204,2019,8
+64,64.0,San Joe Montana 49ers,Jrz French Faulk's,195,225,2019,9
+65,65.0,The Adam´s Family,Isma Ray Ravens,158,198,2019,9
+66,66.0,Javier Big Ben Steelers,Darko LaDainian Texas *,179,158,2019,9
+67,67.0,GronkSpike,Zgz Marino Phins,155,186,2019,9
+68,68.0,Malaka Reed Poe,Indiana James,180,169,2019,9
+69,69.0,Smith's Terrible Showdown,Triana Bills Kelly,178,165,2019,9
+70,70.0,Vlc Tigers Watt's,NavaWarner Rams,198,172,2019,9
+71,71.0,Córdoba Gunslingers Favre,Franquicia Sin Nombre,211,161,2019,9
+72,72.0,Isma Ray Ravens,Javier Big Ben Steelers,166,151,2019,10
+73,73.0,Jrz French Faulk's,GronkSpike,201,201,2019,10
+74,74.0,Darko LaDainian Texas *,San Joe Montana 49ers,160,188,2019,10
+75,75.0,Zgz Marino Phins,The Adam´s Family,124,127,2019,10
+76,76.0,Indiana James,Smith's Terrible Showdown,140,155,2019,10
+77,77.0,Triana Bills Kelly,Córdoba Gunslingers Favre,243,149,2019,10
+78,78.0,NavaWarner Rams,Malaka Reed Poe,182,184,2019,10
+79,79.0,Franquicia Sin Nombre,Vlc Tigers Watt's,137,186,2019,10
+80,80.0,Jrz French Faulk's,Isma Ray Ravens,201,117,2019,11
+81,81.0,Darko LaDainian Texas *,Zgz Marino Phins,170,174,2019,11
+82,82.0,Javier Big Ben Steelers,GronkSpike,173,121,2019,11
+83,83.0,San Joe Montana 49ers,The Adam´s Family,151,152,2019,11
+84,84.0,Indiana James,Triana Bills Kelly,159,214,2019,11
+85,85.0,NavaWarner Rams,Franquicia Sin Nombre,139,193,2019,11
+86,86.0,Smith's Terrible Showdown,Córdoba Gunslingers Favre,199,177,2019,11
+87,87.0,Malaka Reed Poe,Vlc Tigers Watt's,184,159,2019,11
+88,88.0,Darko LaDainian Texas *,Jrz French Faulk's,215,146,2019,12
+89,89.0,Isma Ray Ravens,Zgz Marino Phins,171,195,2019,12
+90,90.0,San Joe Montana 49ers,Javier Big Ben Steelers,109,160,2019,12
+91,91.0,GronkSpike,The Adam´s Family,147,148,2019,12
+92,92.0,NavaWarner Rams,Indiana James,185,128,2019,12
+93,93.0,Triana Bills Kelly,Franquicia Sin Nombre,214,209,2019,12
+94,94.0,Malaka Reed Poe,Smith's Terrible Showdown,197,156,2019,12
+95,95.0,Córdoba Gunslingers Favre,Vlc Tigers Watt's,142,160,2019,12
+96,96.0,Isma Ray Ravens,Darko LaDainian Texas *,210,192,2019,13
+97,97.0,Jrz French Faulk's,Zgz Marino Phins,163,194,2019,13
+98,98.0,The Adam´s Family,Javier Big Ben Steelers,100,199,2019,13
+99,99.0,GronkSpike,San Joe Montana 49ers,152,175,2019,13
+100,100.0,Franquicia Sin Nombre,Indiana James,186,137,2019,13
+101,101.0,Triana Bills Kelly,NavaWarner Rams,176,171,2019,13
+102,102.0,Vlc Tigers Watt's,Smith's Terrible Showdown,179,215,2019,13
+103,103.0,Córdoba Gunslingers Favre,Malaka Reed Poe,178,174,2019,13
+104,104.0,Darko LaDainian Texas *,Isma Ray Ravens,215,213,2019,Divisional playoffs 
+105,105.0,Triana Bills Kelly,Franquicia Sin Nombre,145,142,2019,Divisional playoffs 
+106,106.0,Malaka Reed Poe,Smith's Terrible Showdown,180,199,2019,Divisional playoffs 
+107,107.0,Jrz French Faulk's,Javier Big Ben Steelers,196,179,2019,Divisional playoffs 
+108,112.0,Jrz French Faulk's,Darko LaDainian Texas *,169,183,2019,Conference Championship
+109,113.0,Smith's Terrible Showdown,Triana Bills Kelly,222,199,2019,Conference Championship
+110,120.0,Smith's Terrible Showdown,Darko LaDainian Texas *,163,188,2019,GOAT Bowl
+111,0.0,Isma Ray Ravens,Jrz French Faulk's,187,143,2020,1
+112,1.0,Zgz Marino Phins,Darko LaDainian Texas *,204,184,2020,1
+113,2.0,GronkSpike,Javier Big Ben Steelers,221,171,2020,1
+114,3.0,The Adam´s Family,San Joe Montana 49ers,155,214,2020,1
+115,4.0,Triana Bills Kelly,Indiana James,182,142,2020,1
+116,5.0,Pittsburgh Terror Lambert,El Predicador Almogávar,0,140,2020,1
+117,6.0,Córdoba Gunslingers Favre,Smith's Terrible Showdown,174,197,2020,1
+118,7.0,Vlc Tigers Watt's,Malaka Reed Poe,202,194,2020,1
+119,8.0,Zgz Marino Phins,Isma Ray Ravens,174,167,2020,2
+120,9.0,Jrz French Faulk's,Darko LaDainian Texas *,191,171,2020,2
+121,10.0,The Adam´s Family,GronkSpike,162,182,2020,2
+122,11.0,Javier Big Ben Steelers,San Joe Montana 49ers,196,210,2020,2
+123,12.0,Pittsburgh Terror Lambert,Triana Bills Kelly,0,226,2020,2
+124,13.0,Indiana James,El Predicador Almogávar,165,173,2020,2
+125,14.0,Vlc Tigers Watt's,Córdoba Gunslingers Favre,205,192,2020,2
+126,15.0,Smith's Terrible Showdown,Malaka Reed Poe,274,167,2020,2
+127,16.0,Zgz Marino Phins,Jrz French Faulk's,165,218,2020,3
+128,17.0,Darko LaDainian Texas *,Isma Ray Ravens,170,211,2020,3
+129,18.0,San Joe Montana 49ers,GronkSpike,181,209,2020,3
+130,19.0,Javier Big Ben Steelers,The Adam´s Family,182,166,2020,3
+131,20.0,El Predicador Almogávar,Triana Bills Kelly,166,231,2020,3
+132,21.0,Indiana James,Pittsburgh Terror Lambert,107,179,2020,3
+133,22.0,Malaka Reed Poe,Córdoba Gunslingers Favre,154,177,2020,3
+134,23.0,Smith's Terrible Showdown,Vlc Tigers Watt's,155,178,2020,3
+135,24.0,GronkSpike,Isma Ray Ravens,176,200,2020,4
+136,25.0,San Joe Montana 49ers,Zgz Marino Phins,208,169,2020,4
+137,26.0,Jrz French Faulk's,Javier Big Ben Steelers,202,131,2020,4
+138,27.0,Darko LaDainian Texas *,The Adam´s Family,165,133,2020,4
+139,28.0,Córdoba Gunslingers Favre,Indiana James,173,199,2020,4
+140,29.0,Malaka Reed Poe,Pittsburgh Terror Lambert,240,163,2020,4
+141,30.0,El Predicador Almogávar,Smith's Terrible Showdown,174,171,2020,4
+142,31.0,Triana Bills Kelly,Vlc Tigers Watt's,168,167,2020,4
+143,32.0,Vlc Tigers Watt's,Isma Ray Ravens,201,178,2020,5
+144,33.0,Córdoba Gunslingers Favre,Zgz Marino Phins,178,159,2020,5
+145,34.0,Triana Bills Kelly,GronkSpike,135,181,2020,5
+146,35.0,Pittsburgh Terror Lambert,The Adam´s Family,166,160,2020,5
+147,36.0,Javier Big Ben Steelers,Indiana James,201,124,2020,5
+148,37.0,San Joe Montana 49ers,El Predicador Almogávar,129,132,2020,5
+149,38.0,Jrz French Faulk's,Smith's Terrible Showdown,159,126,2020,5
+150,39.0,Darko LaDainian Texas *,Malaka Reed Poe,253,196,2020,5
+151,40.0,The Adam´s Family,Jrz French Faulk's,129,196,2020,6
+152,41.0,GronkSpike,Darko LaDainian Texas *,220,177,2020,6
+153,42.0,Zgz Marino Phins,Javier Big Ben Steelers,146,184,2020,6
+154,43.0,Isma Ray Ravens,San Joe Montana 49ers,224,119,2020,6
+155,44.0,Vlc Tigers Watt's,Indiana James,238,179,2020,6
+156,45.0,Córdoba Gunslingers Favre,El Predicador Almogávar,123,171,2020,6
+157,46.0,Pittsburgh Terror Lambert,Smith's Terrible Showdown,97,138,2020,6
+158,47.0,Triana Bills Kelly,Malaka Reed Poe,159,154,2020,6
+159,48.0,Indiana James,Isma Ray Ravens,125,183,2020,7
+160,49.0,El Predicador Almogávar,Zgz Marino Phins,153,177,2020,7
+161,50.0,Malaka Reed Poe,GronkSpike,119,182,2020,7
+162,51.0,Smith's Terrible Showdown,The Adam´s Family,130,135,2020,7
+163,52.0,Jrz French Faulk's,Triana Bills Kelly,248,232,2020,7
+164,53.0,Darko LaDainian Texas *,Pittsburgh Terror Lambert,167,94,2020,7
+165,54.0,San Joe Montana 49ers,Córdoba Gunslingers Favre,157,222,2020,7
+166,55.0,Javier Big Ben Steelers,Vlc Tigers Watt's,180,212,2020,7
+167,56.0,Vlc Tigers Watt's,Jrz French Faulk's,158,194,2020,8
+168,57.0,Smith's Terrible Showdown,Darko LaDainian Texas *,148,177,2020,8
+169,58.0,Indiana James,GronkSpike,115,207,2020,8
+170,59.0,Pittsburgh Terror Lambert,San Joe Montana 49ers,159,183,2020,8
+171,60.0,Javier Big Ben Steelers,Triana Bills Kelly,187,192,2020,8
+172,61.0,The Adam´s Family,El Predicador Almogávar,177,127,2020,8
+173,62.0,Isma Ray Ravens,Córdoba Gunslingers Favre,177,153,2020,8
+174,63.0,Zgz Marino Phins,Malaka Reed Poe,143,200,2020,8
+175,64.0,San Joe Montana 49ers,Jrz French Faulk's,164,174,2020,9
+176,65.0,The Adam´s Family,Isma Ray Ravens,168,226,2020,9
+177,66.0,Javier Big Ben Steelers,Darko LaDainian Texas *,168,171,2020,9
+178,67.0,GronkSpike,Zgz Marino Phins,161,133,2020,9
+179,68.0,Malaka Reed Poe,Indiana James,177,106,2020,9
+180,69.0,Smith's Terrible Showdown,Triana Bills Kelly,235,168,2020,9
+181,70.0,Vlc Tigers Watt's,El Predicador Almogávar,184,161,2020,9
+182,71.0,Córdoba Gunslingers Favre,Pittsburgh Terror Lambert,179,140,2020,9
+183,72.0,Isma Ray Ravens,Javier Big Ben Steelers,157,164,2020,10
+184,73.0,Jrz French Faulk's,GronkSpike,184,227,2020,10
+185,74.0,Darko LaDainian Texas *,San Joe Montana 49ers,177,106,2020,10
+186,75.0,Zgz Marino Phins,The Adam´s Family,101,101,2020,10
+187,76.0,Indiana James,Smith's Terrible Showdown,96,158,2020,10
+188,77.0,Triana Bills Kelly,Córdoba Gunslingers Favre,193,144,2020,10
+189,78.0,El Predicador Almogávar,Malaka Reed Poe,140,149,2020,10
+190,79.0,Pittsburgh Terror Lambert,Vlc Tigers Watt's,131,186,2020,10
+191,80.0,Jrz French Faulk's,Isma Ray Ravens,123,236,2020,11
+192,81.0,Darko LaDainian Texas *,Zgz Marino Phins,213,164,2020,11
+193,82.0,Javier Big Ben Steelers,GronkSpike,149,187,2020,11
+194,83.0,San Joe Montana 49ers,The Adam´s Family,130,169,2020,11
+195,84.0,Indiana James,Triana Bills Kelly,139,139,2020,11
+196,85.0,El Predicador Almogávar,Pittsburgh Terror Lambert,128,153,2020,11
+197,86.0,Smith's Terrible Showdown,Córdoba Gunslingers Favre,215,155,2020,11
+198,87.0,Malaka Reed Poe,Vlc Tigers Watt's,171,193,2020,11
+199,88.0,Darko LaDainian Texas *,Jrz French Faulk's,181,172,2020,12
+200,89.0,Isma Ray Ravens,Zgz Marino Phins,185,161,2020,12
+201,90.0,San Joe Montana 49ers,Javier Big Ben Steelers,186,167,2020,12
+202,91.0,GronkSpike,The Adam´s Family,122,165,2020,12
+203,92.0,El Predicador Almogávar,Indiana James,151,137,2020,12
+204,93.0,Triana Bills Kelly,Pittsburgh Terror Lambert,267,115,2020,12
+205,94.0,Malaka Reed Poe,Smith's Terrible Showdown,155,235,2020,12
+206,95.0,Córdoba Gunslingers Favre,Vlc Tigers Watt's,199,226,2020,12
+207,96.0,Isma Ray Ravens,Darko LaDainian Texas *,181,148,2020,13
+208,97.0,Jrz French Faulk's,Zgz Marino Phins,132,163,2020,13
+209,98.0,The Adam´s Family,Javier Big Ben Steelers,155,215,2020,13
+210,99.0,GronkSpike,San Joe Montana 49ers,146,136,2020,13
+211,100.0,Pittsburgh Terror Lambert,Indiana James,130,161,2020,13
+212,101.0,Triana Bills Kelly,El Predicador Almogávar,211,179,2020,13
+213,102.0,Vlc Tigers Watt's,Smith's Terrible Showdown,179,185,2020,13
+214,103.0,Córdoba Gunslingers Favre,Malaka Reed Poe,202,224,2020,13
+215,104.0,Jrz French Faulk's,GronkSpike,186,150,2020,Divisional playoffs 
+216,105.0,El Predicador Almogávar,Vlc Tigers Watt's,182,211,2020,Divisional playoffs 
+217,106.0,Smith's Terrible Showdown,Triana Bills Kelly,228,214,2020,Divisional playoffs 
+218,107.0,Darko LaDainian Texas *,Isma Ray Ravens,147,175,2020,Divisional playoffs 
+219,112.0,Isma Ray Ravens,Jrz French Faulk's,245,155,2020,Conference Championship
+220,113.0,Smith's Terrible Showdown,Vlc Tigers Watt's,143,182,2020,Conference Championship
+221,120.0,Vlc Tigers Watt's,Isma Ray Ravens,167,199,2020,GOAT Bowl
+222,0.0,Mile High Champ's,Zgz Marino Phins,173,165,2021,1
+223,1.0,Jrz French Faulk's,Isma Ray Ravens,189,169,2021,1
+224,2.0,San Joe Montana 49ers,The Adam´s Family,193,152,2021,1
+225,3.0,Javier Big Ben Steelers,GronkSpike,167,158,2021,1
+226,4.0,El Predicador Almogávar,Pittsburgh Terror Lambert,188,156,2021,1
+227,5.0,Indiana James,Nafarroa Bills Kelly,115,167,2021,1
+228,6.0,Malaka Reed Poe,Vlc Tigers Watt's,172,206,2021,1
+229,7.0,Smith's Terrible Showdown,Córdoba Gunslingers Favre,167,170,2021,1
+230,8.0,Mile High Champ's,Jrz French Faulk's,136,199,2021,2
+231,9.0,Zgz Marino Phins,Isma Ray Ravens,137,156,2021,2
+232,10.0,San Joe Montana 49ers,Javier Big Ben Steelers,141,156,2021,2
+233,11.0,The Adam´s Family,GronkSpike,160,265,2021,2
+234,12.0,El Predicador Almogávar,Indiana James,153,141,2021,2
+235,13.0,Pittsburgh Terror Lambert,Nafarroa Bills Kelly,158,142,2021,2
+236,14.0,Malaka Reed Poe,Smith's Terrible Showdown,188,176,2021,2
+237,15.0,Vlc Tigers Watt's,Córdoba Gunslingers Favre,194,152,2021,2
+238,16.0,Mile High Champ's,Isma Ray Ravens,144,153,2021,3
+239,17.0,Zgz Marino Phins,Jrz French Faulk's,136,191,2021,3
+240,18.0,San Joe Montana 49ers,GronkSpike,153,171,2021,3
+241,19.0,The Adam´s Family,Javier Big Ben Steelers,161,149,2021,3
+242,20.0,El Predicador Almogávar,Nafarroa Bills Kelly,144,181,2021,3
+243,21.0,Pittsburgh Terror Lambert,Indiana James,152,184,2021,3
+244,22.0,Malaka Reed Poe,Córdoba Gunslingers Favre,116,220,2021,3
+245,23.0,Vlc Tigers Watt's,Smith's Terrible Showdown,159,143,2021,3
+246,24.0,Mile High Champ's,San Joe Montana 49ers,160,183,2021,4
+247,25.0,Zgz Marino Phins,The Adam´s Family,153,172,2021,4
+248,26.0,Jrz French Faulk's,GronkSpike,137,198,2021,4
+249,27.0,Isma Ray Ravens,Javier Big Ben Steelers,199,129,2021,4
+250,28.0,El Predicador Almogávar,Vlc Tigers Watt's,114,169,2021,4
+251,29.0,Pittsburgh Terror Lambert,Córdoba Gunslingers Favre,129,139,2021,4
+252,30.0,Indiana James,Malaka Reed Poe,120,105,2021,4
+253,31.0,Nafarroa Bills Kelly,Smith's Terrible Showdown,161,172,2021,4
+254,32.0,Mile High Champ's,El Predicador Almogávar,171,122,2021,5
+255,33.0,Zgz Marino Phins,Pittsburgh Terror Lambert,126,151,2021,5
+256,34.0,Jrz French Faulk's,Indiana James,139,156,2021,5
+257,35.0,Isma Ray Ravens,Nafarroa Bills Kelly,180,226,2021,5
+258,36.0,San Joe Montana 49ers,Malaka Reed Poe,189,105,2021,5
+259,37.0,The Adam´s Family,Vlc Tigers Watt's,166,145,2021,5
+260,38.0,Javier Big Ben Steelers,Smith's Terrible Showdown,195,208,2021,5
+261,39.0,GronkSpike,Córdoba Gunslingers Favre,193,227,2021,5
+262,40.0,Mile High Champ's,Malaka Reed Poe,159,145,2021,6
+263,41.0,Zgz Marino Phins,Córdoba Gunslingers Favre,146,138,2021,6
+264,42.0,Jrz French Faulk's,Smith's Terrible Showdown,172,144,2021,6
+265,43.0,Isma Ray Ravens,Vlc Tigers Watt's,165,182,2021,6
+266,44.0,San Joe Montana 49ers,El Predicador Almogávar,184,139,2021,6
+267,45.0,The Adam´s Family,Pittsburgh Terror Lambert,136,139,2021,6
+268,46.0,Javier Big Ben Steelers,Indiana James,180,117,2021,6
+269,47.0,GronkSpike,Nafarroa Bills Kelly,214,174,2021,6
+270,48.0,Mile High Champ's,GronkSpike,171,169,2021,7
+271,49.0,Zgz Marino Phins,Javier Big Ben Steelers,169,166,2021,7
+272,50.0,Jrz French Faulk's,The Adam´s Family,169,124,2021,7
+273,51.0,Isma Ray Ravens,San Joe Montana 49ers,141,145,2021,7
+274,52.0,El Predicador Almogávar,Córdoba Gunslingers Favre,125,70,2021,7
+275,53.0,Pittsburgh Terror Lambert,Smith's Terrible Showdown,142,146,2021,7
+276,54.0,Indiana James,Vlc Tigers Watt's,104,170,2021,7
+277,55.0,Nafarroa Bills Kelly,Malaka Reed Poe,199,121,2021,7
+278,56.0,Mile High Champ's,Pittsburgh Terror Lambert,134,154,2021,8
+279,57.0,Zgz Marino Phins,El Predicador Almogávar,163,141,2021,8
+280,58.0,Jrz French Faulk's,Nafarroa Bills Kelly,202,167,2021,8
+281,59.0,Isma Ray Ravens,Indiana James,199,137,2021,8
+282,60.0,San Joe Montana 49ers,Córdoba Gunslingers Favre,175,129,2021,8
+283,61.0,The Adam´s Family,Smith's Terrible Showdown,162,165,2021,8
+284,62.0,Javier Big Ben Steelers,Vlc Tigers Watt's,136,150,2021,8
+285,63.0,GronkSpike,Malaka Reed Poe,178,108,2021,8
+286,64.0,Mile High Champ's,Córdoba Gunslingers Favre,163,153,2021,9
+287,65.0,Zgz Marino Phins,Vlc Tigers Watt's,130,182,2021,9
+288,66.0,Jrz French Faulk's,Malaka Reed Poe,147,122,2021,9
+289,67.0,Isma Ray Ravens,Smith's Terrible Showdown,151,125,2021,9
+290,68.0,San Joe Montana 49ers,Pittsburgh Terror Lambert,113,136,2021,9
+291,69.0,The Adam´s Family,El Predicador Almogávar,128,109,2021,9
+292,70.0,Javier Big Ben Steelers,Nafarroa Bills Kelly,190,168,2021,9
+293,71.0,GronkSpike,Indiana James,174,133,2021,9
+294,72.0,Mile High Champ's,Javier Big Ben Steelers,127,145,2021,10
+295,73.0,Zgz Marino Phins,GronkSpike,186,128,2021,10
+296,74.0,Jrz French Faulk's,San Joe Montana 49ers,131,126,2021,10
+297,75.0,Isma Ray Ravens,The Adam´s Family,214,135,2021,10
+298,76.0,El Predicador Almogávar,Smith's Terrible Showdown,113,181,2021,10
+299,77.0,Pittsburgh Terror Lambert,Malaka Reed Poe,102,144,2021,10
+300,78.0,Indiana James,Córdoba Gunslingers Favre,114,144,2021,10
+301,79.0,Nafarroa Bills Kelly,Vlc Tigers Watt's,149,151,2021,10
+302,80.0,Mile High Champ's,The Adam´s Family,102,137,2021,11
+303,81.0,Zgz Marino Phins,San Joe Montana 49ers,176,82,2021,11
+304,82.0,Jrz French Faulk's,Javier Big Ben Steelers,91,121,2021,11
+305,83.0,Isma Ray Ravens,GronkSpike,163,178,2021,11
+306,84.0,El Predicador Almogávar,Malaka Reed Poe,102,142,2021,11
+307,85.0,Pittsburgh Terror Lambert,Vlc Tigers Watt's,167,180,2021,11
+308,86.0,Indiana James,Smith's Terrible Showdown,151,137,2021,11
+309,87.0,Nafarroa Bills Kelly,Córdoba Gunslingers Favre,194,123,2021,11
+310,88.0,Mile High Champ's,Zgz Marino Phins,144,187,2021,12
+311,89.0,Jrz French Faulk's,Isma Ray Ravens,133,191,2021,12
+312,90.0,San Joe Montana 49ers,The Adam´s Family,147,147,2021,12
+313,91.0,Javier Big Ben Steelers,GronkSpike,167,152,2021,12
+314,92.0,El Predicador Almogávar,Pittsburgh Terror Lambert,149,159,2021,12
+315,93.0,Indiana James,Nafarroa Bills Kelly,124,156,2021,12
+316,94.0,Malaka Reed Poe,Vlc Tigers Watt's,143,132,2021,12
+317,95.0,Smith's Terrible Showdown,Córdoba Gunslingers Favre,163,99,2021,12
+318,96.0,Mile High Champ's,Jrz French Faulk's,148,179,2021,13
+319,97.0,Zgz Marino Phins,Isma Ray Ravens,158,147,2021,13
+320,98.0,San Joe Montana 49ers,Javier Big Ben Steelers,168,149,2021,13
+321,99.0,The Adam´s Family,GronkSpike,154,191,2021,13
+322,100.0,El Predicador Almogávar,Indiana James,160,174,2021,13
+323,101.0,Pittsburgh Terror Lambert,Nafarroa Bills Kelly,146,139,2021,13
+324,102.0,Malaka Reed Poe,Smith's Terrible Showdown,103,163,2021,13
+325,103.0,Vlc Tigers Watt's,Córdoba Gunslingers Favre,147,113,2021,13
+326,104.0,Mile High Champ's,Isma Ray Ravens,127,147,2021,14
+327,105.0,Zgz Marino Phins,Jrz French Faulk's,133,182,2021,14
+328,106.0,San Joe Montana 49ers,GronkSpike,146,167,2021,14
+329,107.0,The Adam´s Family,Javier Big Ben Steelers,114,153,2021,14
+330,108.0,El Predicador Almogávar,Nafarroa Bills Kelly,167,166,2021,14
+331,109.0,Pittsburgh Terror Lambert,Indiana James,174,189,2021,14
+332,110.0,Malaka Reed Poe,Córdoba Gunslingers Favre,125,162,2021,14
+333,111.0,Vlc Tigers Watt's,Smith's Terrible Showdown,154,173,2021,14
+334,112.0,Nafarroa Bills Kelly,Vlc Tigers Watt's,153,178,2021,Divisional playoffs 
+335,113.0,Javier Big Ben Steelers,Jrz French Faulk's,109,176,2021,Divisional playoffs 
+336,114.0,Isma Ray Ravens,GronkSpike,149,136,2021,Divisional playoffs 
+337,115.0,Smith's Terrible Showdown,Pittsburgh Terror Lambert,172,121,2021,Divisional playoffs 
+338,120.0,Smith's Terrible Showdown,Vlc Tigers Watt's,144,154,2021,Conference Championship
+339,121.0,Isma Ray Ravens,Jrz French Faulk's,149,158,2021,Conference Championship
+340,128.0,Jrz French Faulk's,Vlc Tigers Watt's,158,189,2021,GOAT Bowl
+0,,Mile High Champ's,Snake Stabler Raiders,225,226,2022,1
+1,,Medina Allen Bills,Isma Ray Ravens,211,201,2022,1
+2,,Cowher Straight Outta Albacete,The Adam´s Family,189,219,2022,1
+3,,Javier Big Ben Steelers,GronkSpike,190,226,2022,1
+4,,El Predicador Almogávar,Pittsburgh Terror Lambert,191,198,2022,1
+5,,Indiana James,Nafarroa Bills Kelly,171,208,2022,1
+6,,Malaka Reed Poe,Vlc Tigers Watt's,160,285,2022,1
+7,,Smith's Terrible Showdown,Córdoba Gunslingers Favre,237,203,2022,1
+8,,Mile High Champ's,Medina Allen Bills,196,220,2022,2
+9,,Snake Stabler Raiders,Isma Ray Ravens,185,189,2022,2
+10,,Cowher Straight Outta Albacete,Javier Big Ben Steelers,159,199,2022,2
+11,,The Adam´s Family,GronkSpike,203,211,2022,2
+12,,El Predicador Almogávar,Indiana James,207,139,2022,2
+13,,Pittsburgh Terror Lambert,Nafarroa Bills Kelly,145,204,2022,2
+14,,Malaka Reed Poe,Smith's Terrible Showdown,145,243,2022,2
+15,,Vlc Tigers Watt's,Córdoba Gunslingers Favre,211,183,2022,2
+16,,Mile High Champ's,Isma Ray Ravens,223,225,2022,3
+17,,Snake Stabler Raiders,Medina Allen Bills,221,190,2022,3
+18,,Cowher Straight Outta Albacete,GronkSpike,170,165,2022,3
+19,,The Adam´s Family,Javier Big Ben Steelers,143,228,2022,3
+20,,El Predicador Almogávar,Nafarroa Bills Kelly,200,266,2022,3
+21,,Pittsburgh Terror Lambert,Indiana James,152,137,2022,3
+22,,Malaka Reed Poe,Córdoba Gunslingers Favre,198,160,2022,3
+23,,Vlc Tigers Watt's,Smith's Terrible Showdown,190,196,2022,3
+24,,Mile High Champ's,Cowher Straight Outta Albacete,219,166,2022,4
+25,,Snake Stabler Raiders,The Adam´s Family,223,154,2022,4
+26,,Medina Allen Bills,GronkSpike,150,259,2022,4
+27,,Isma Ray Ravens,Javier Big Ben Steelers,257,181,2022,4
+28,,El Predicador Almogávar,Vlc Tigers Watt's,216,238,2022,4
+29,,Pittsburgh Terror Lambert,Córdoba Gunslingers Favre,214,160,2022,4
+30,,Indiana James,Malaka Reed Poe,207,186,2022,4
+31,,Nafarroa Bills Kelly,Smith's Terrible Showdown,189,182,2022,4
+32,,Mile High Champ's,El Predicador Almogávar,212,91,2022,5
+33,,Snake Stabler Raiders,Pittsburgh Terror Lambert,253,187,2022,5
+34,,Medina Allen Bills,Indiana James,177,137,2022,5
+35,,Isma Ray Ravens,Nafarroa Bills Kelly,226,204,2022,5
+36,,Cowher Straight Outta Albacete,Malaka Reed Poe,205,187,2022,5
+37,,The Adam´s Family,Vlc Tigers Watt's,173,179,2022,5
+38,,Javier Big Ben Steelers,Smith's Terrible Showdown,179,200,2022,5
+39,,GronkSpike,Córdoba Gunslingers Favre,154,206,2022,5
+40,,Mile High Champ's,Malaka Reed Poe,212,201,2022,6
+41,,Snake Stabler Raiders,Córdoba Gunslingers Favre,212,182,2022,6
+42,,Medina Allen Bills,Smith's Terrible Showdown,158,193,2022,6
+43,,Isma Ray Ravens,Vlc Tigers Watt's,185,194,2022,6
+44,,Cowher Straight Outta Albacete,El Predicador Almogávar,171,153,2022,6
+45,,The Adam´s Family,Pittsburgh Terror Lambert,169,215,2022,6
+46,,Javier Big Ben Steelers,Indiana James,196,213,2022,6
+47,,GronkSpike,Nafarroa Bills Kelly,138,218,2022,6
+48,,Mile High Champ's,GronkSpike,237,137,2022,7
+49,,Snake Stabler Raiders,Javier Big Ben Steelers,132,193,2022,7
+50,,Medina Allen Bills,The Adam´s Family,186,220,2022,7
+51,,Isma Ray Ravens,Cowher Straight Outta Albacete,234,141,2022,7
+52,,El Predicador Almogávar,Córdoba Gunslingers Favre,138,166,2022,7
+53,,Pittsburgh Terror Lambert,Smith's Terrible Showdown,210,184,2022,7
+54,,Indiana James,Vlc Tigers Watt's,202,192,2022,7
+55,,Nafarroa Bills Kelly,Malaka Reed Poe,235,183,2022,7
+56,,Mile High Champ's,Pittsburgh Terror Lambert,238,112,2022,8
+57,,Snake Stabler Raiders,El Predicador Almogávar,181,169,2022,8
+58,,Medina Allen Bills,Nafarroa Bills Kelly,211,300,2022,8
+59,,Isma Ray Ravens,Indiana James,208,220,2022,8
+60,,Cowher Straight Outta Albacete,Córdoba Gunslingers Favre,206,208,2022,8
+61,,The Adam´s Family,Smith's Terrible Showdown,238,210,2022,8
+62,,Javier Big Ben Steelers,Vlc Tigers Watt's,267,218,2022,8
+63,,GronkSpike,Malaka Reed Poe,242,151,2022,8
+64,,Mile High Champ's,Córdoba Gunslingers Favre,229,133,2022,9
+65,,Snake Stabler Raiders,Vlc Tigers Watt's,234,176,2022,9
+66,,Medina Allen Bills,Malaka Reed Poe,158,145,2022,9
+67,,Isma Ray Ravens,Smith's Terrible Showdown,177,186,2022,9
+68,,Cowher Straight Outta Albacete,Pittsburgh Terror Lambert,127,222,2022,9
+69,,The Adam´s Family,El Predicador Almogávar,230,180,2022,9
+70,,Javier Big Ben Steelers,Nafarroa Bills Kelly,188,170,2022,9
+71,,GronkSpike,Indiana James,140,115,2022,9
+72,,Mile High Champ's,Javier Big Ben Steelers,229,209,2022,10
+73,,Snake Stabler Raiders,GronkSpike,212,190,2022,10
+74,,Medina Allen Bills,Cowher Straight Outta Albacete,143,155,2022,10
+75,,Isma Ray Ravens,The Adam´s Family,178,182,2022,10
+76,,El Predicador Almogávar,Smith's Terrible Showdown,213,187,2022,10
+77,,Pittsburgh Terror Lambert,Malaka Reed Poe,213,136,2022,10
+78,,Indiana James,Córdoba Gunslingers Favre,93,142,2022,10
+79,,Nafarroa Bills Kelly,Vlc Tigers Watt's,164,175,2022,10
+80,,Mile High Champ's,The Adam´s Family,219,150,2022,11
+81,,Snake Stabler Raiders,Cowher Straight Outta Albacete,129,168,2022,11
+82,,Medina Allen Bills,Javier Big Ben Steelers,142,198,2022,11
+83,,Isma Ray Ravens,GronkSpike,278,155,2022,11
+84,,El Predicador Almogávar,Malaka Reed Poe,210,223,2022,11
+85,,Pittsburgh Terror Lambert,Vlc Tigers Watt's,210,184,2022,11
+86,,Indiana James,Smith's Terrible Showdown,131,172,2022,11
+87,,Nafarroa Bills Kelly,Córdoba Gunslingers Favre,226,153,2022,11
+88,,Mile High Champ's,Snake Stabler Raiders,233,208,2022,12
+89,,Medina Allen Bills,Isma Ray Ravens,186,203,2022,12
+90,,Cowher Straight Outta Albacete,The Adam´s Family,180,216,2022,12
+91,,Javier Big Ben Steelers,GronkSpike,162,214,2022,12
+92,,El Predicador Almogávar,Pittsburgh Terror Lambert,145,210,2022,12
+93,,Indiana James,Nafarroa Bills Kelly,91,229,2022,12
+94,,Malaka Reed Poe,Vlc Tigers Watt's,218,207,2022,12
+95,,Smith's Terrible Showdown,Córdoba Gunslingers Favre,211,149,2022,12
+96,,Mile High Champ's,Medina Allen Bills,224,174,2022,13
+97,,Snake Stabler Raiders,Isma Ray Ravens,224,174,2022,13
+98,,Cowher Straight Outta Albacete,Javier Big Ben Steelers,116,206,2022,13
+99,,The Adam´s Family,GronkSpike,180,188,2022,13
+100,,El Predicador Almogávar,Indiana James,192,142,2022,13
+101,,Pittsburgh Terror Lambert,Nafarroa Bills Kelly,226,166,2022,13
+102,,Malaka Reed Poe,Smith's Terrible Showdown,162,247,2022,13
+103,,Vlc Tigers Watt's,Córdoba Gunslingers Favre,208,123,2022,13
+104,,Mile High Champ's,Isma Ray Ravens,204,263,2022,14
+105,,Snake Stabler Raiders,Medina Allen Bills,120,182,2022,14
+106,,Cowher Straight Outta Albacete,GronkSpike,144,144,2022,14
+107,,The Adam´s Family,Javier Big Ben Steelers,205,228,2022,14
+108,,El Predicador Almogávar,Nafarroa Bills Kelly,166,220,2022,14
+109,,Pittsburgh Terror Lambert,Indiana James,188,127,2022,14
+110,,Malaka Reed Poe,Córdoba Gunslingers Favre,173,119,2022,14
+111,,Vlc Tigers Watt's,Smith's Terrible Showdown,214,189,2022,14
+112,,Vlc Tigers Watt's,Pittsburgh Terror Lambert,272,174,2022,Divisional playoffs 
+113,,Javier Big Ben Steelers,Mile High Champ's,211,238,2022,Divisional playoffs 
+114,,Isma Ray Ravens,Snake Stabler Raiders,188,175,2022,Divisional playoffs 
+115,,Smith's Terrible Showdown,Nafarroa Bills Kelly,235,238,2022,Divisional playoffs 
+120,,Nafarroa Bills Kelly,Vlc Tigers Watt's,212,211,2022,Conference Championship
+121,,Isma Ray Ravens,Mile High Champ's,246,198,2022,Conference Championship
+128,,Isma Ray Ravens,Nafarroa Bills Kelly,192,220,2022,GOAT Bowl

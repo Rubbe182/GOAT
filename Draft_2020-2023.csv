@@ -1,0 +1,474 @@
+Year,Pick,Ovr,Franchise,Player,Team,Position,Points
+2020,1.01,1,San Joe Montana 49ers,Clyde Edwards-Helaire,KCC,RB,164
+2020,1.02,2,Indiana James,Jonathan Taylor,IND,RB,238
+2020,1.03,3,The Adam's Family,J.K. Dobbins,BAL,RB,163
+2020,1.04,4,Vlc Tigers Watt's,D'Andre Swift,DET,RB,173
+2020,1.05,5,El Predicador Almogávar,Cam Akers,LAR,RB,97
+2020,1.06,6,GronkSpike,Justin Jefferson,MIN,WR,237
+2020,1.07,7,Zgz Marino Phins,CeeDee Lamb,DAL,WR,196
+2020,1.08,8,Córdoba Gunslingers Favre,Jerry Jeudy,DEN,WR,140
+2020,1.09,9,Javier Big Ben Steelers,Henry Ruggs,LVR,WR,81
+2020,1.1,10,Triana Bills Kelly,Joe Burrow,CIN,QB,198
+2020,1.11,11,Pittsburgh Terror Lambert,Denzel Mims,NYJ,WR,53
+2020,1.12,12,Malaka Reed Poe,Tua Tagovailoa,MIA,QB,159
+2020,1.13,13,Darko LaDainian Texas *,Jalen Reagor,PHI,WR,83
+2020,1.14,14,Triana Bills Kelly,Brandon Aiyuk,SFO,WR,165
+2020,1.15,15,Smith's Terrible Showdown,Chase Young,WAS,DE,113
+2020,1.16,16,Jrz French Faulk's,Tee Higgins,CIN,WR,171
+2020,2.01,17,San Joe Montana 49ers,Ke'Shawn Vaughn,TBB,RB,21
+2020,2.02,18,Indiana James,Michael Pittman,IND,WR,86
+2020,2.03,19,The Adam's Family,Laviska Shenault,JAC,WR,140
+2020,2.04,20,El Predicador Almogávar,Justin Herbert,LAC,QB,398
+2020,2.05,21,El Predicador Almogávar,Zack Moss,BUF,RB,100
+2020,2.06,22,GronkSpike,Chase Claypool,PIT,WR,193
+2020,2.07,23,Zgz Marino Phins,AJ Dillon,GBP,RB,40
+2020,2.08,24,Córdoba Gunslingers Favre,Darrynton Evans,TEN,RB,21
+2020,2.09,25,San Joe Montana 49ers,Bryan Edwards,LVR,WR,34
+2020,2.1,26,Isma Ray Ravens,Devin Duvernay,BAL,WR,69
+2020,2.11,27,Pittsburgh Terror Lambert,Isaiah Simmons,ARI,LB,74
+2020,2.12,28,Malaka Reed Poe,Kenneth Murray,LAC,LB,106
+2020,2.13,29,Darko LaDainian Texas *,DeeJay Dallas,SEA,RB,52
+2020,2.14,30,Triana Bills Kelly,Anthony McFarland,PIT,RB,25
+2020,2.15,31,Darko LaDainian Texas *,K'Lavon Chaisson,JAC,DE,29
+2020,2.16,32,Darko LaDainian Texas *,Patrick Queen,BAL,LB,140
+2020,3.01,33,Isma Ray Ravens,Antonio Gandy-Golden,WAS,WR,3
+2020,3.02,34,Indiana James,Lynn Bowden,MIA,RB,42
+2020,3.03,35,The Adam's Family,Adam Trautman,NOS,TE,37
+2020,3.04,36,Vlc Tigers Watt's,Jeff Okudah,DET,CB ,62
+2020,3.05,37,El Predicador Almogávar,Cole Kmet,CHI,TE,53
+2020,3.06,38,GronkSpike,Joshua Kelley,LAC,RB,74
+2020,3.07,39,Zgz Marino Phins,Devin Asiasi,NEP,TE,11
+2020,3.08,40,Córdoba Gunslingers Favre,Josiah Deguara,GBP,TE,2
+2020,3.09,41,Javier Big Ben Steelers,Jordan Love,GBP,QB,-
+2020,3.1,42,Triana Bills Kelly,Eno Benjamin,ARI,RB,-
+2020,3.11,43,Triana Bills Kelly,Antonio Gibson,WAS,RB,193
+2020,3.12,44,Malaka Reed Poe,A.J. Epenesa,BUF,DE,23
+2020,3.13,45,San Joe Montana 49ers,Yetur Gross-Matos,CAR,DE,33
+2020,3.14,46,Triana Bills Kelly,KJ Hamler,DEN,WR,80
+2020,3.15,47,Smith's Terrible Showdown,CJ Henderson,JAC,CB ,46
+2020,3.16,48,Darko LaDainian Texas *,Tyler Johnson,TBB,WR,38
+2020,4.01,49,Javier Big Ben Steelers,Xavier McKinney,NYG,S,27
+2020,4.02,50,Indiana James,Darrell Taylor,SEA,DE,-
+2020,4.03,51,The Adam's Family,Grant Delpit,CLE,S,-
+2020,4.04,52,Zgz Marino Phins,Jordyn Brooks,SEA,LB,54
+2020,4.05,53,El Predicador Almogávar,Van Jefferson,LAR,WR,43
+2020,4.06,54,GronkSpike,Lamical Perine,NYJ,RB,51
+2020,4.07,55,Zgz Marino Phins,Antoine Winfield,TBB,S,111
+2020,4.08,56,Córdoba Gunslingers Favre,Jacob Eason,IND,QB,-
+2020,4.09,57,Javier Big Ben Steelers,Curtis Weaver,CLE,DE,-
+2020,4.1,58,Córdoba Gunslingers Favre,Derrick Brown,CAR,DT ,58
+2020,4.11,59,Pittsburgh Terror Lambert,Javon Kinlaw,SFO,DT ,56
+2020,4.12,60,Malaka Reed Poe,James Proche,BAL,WR,11
+2020,4.13,61,Jrz French Faulk's,Marlon Davidson,ATL,DT ,6
+2020,4.14,62,Isma Ray Ravens,Julian Okwara,DET,DE,5
+2020,4.15,63,Triana Bills Kelly,Jeremy Chinn,CAR,S,138
+2020,4.16,64,Jrz French Faulk's,Zack Baun,NOS,LB,13
+2020,4.17,65,Zgz Marino Phins,Josh Uche,NEP,DE,16
+2020,4.18,66,Jrz French Faulk's,Justin Madubuike,BAL,DT ,24
+2020,4.19,67,Triana Bills Kelly,Akeem Davis-Gaither,CIN,LB,36
+2020,5.01,68,San Joe Montana 49ers,Logan Wilson,CIN,LB,50
+2020,5.02,69,Indiana James,Ashtyn Davis,NYJ,S,39
+2020,5.03,70,The Adam's Family,Malik Harrison,BAL,LB,41
+2020,5.04,71,Vlc Tigers Watt's,Isaiah Hodgins,BUF,WR,-
+2020,5.05,72,El Predicador Almogávar,Gabriel Davis,BUF,WR,130
+2020,5.06,73,GronkSpike,Thaddeus Moss,WAS,TE,-
+2020,5.07,74,Zgz Marino Phins,Donovan Peoples-Jones,CLE,WR,66
+2020,5.08,75,San Joe Montana 49ers,Quintez Cephus,DET,WR,61
+2020,5.09,76,Javier Big Ben Steelers,Trevon Diggs,DAL,CB ,89
+2020,5.1,77,Isma Ray Ravens,Darnell Mooney,CHI,WR,128
+2020,5.11,78,Pittsburgh Terror Lambert,Bryce Hall,NYJ,CB ,46
+2020,5.12,79,Malaka Reed Poe,Geno Stone,HOU,S,0
+2020,5.13,80,Jrz French Faulk's,Justin Strnad,DEN,LB,-
+2020,5.14,81,Triana Bills Kelly,Anfernee Jennings,NEP,DE,17
+2020,5.15,82,Smith's Terrible Showdown,Albert Okwuegbunam,DEN,TE,26
+2020,5.16,83,Darko LaDainian Texas *,Jeff Gladney,MIN,CB ,92
+2020,5.17,84,San Joe Montana 49ers,Kyle Dugger,NEP,S,61
+2020,5.18,85,The Adam's Family,Damon Arnette,LVR,CB ,28
+2020,5.19,86,Zgz Marino Phins,Ross Blacklock,HOU,DT ,15
+2020,5.2,87,Pittsburgh Terror Lambert,Jordan Elliott,CLE,DT ,13
+2020,5.21,88,Malaka Reed Poe,Jauan Jennings,SFO,WR,-
+2020,5.22,89,Triana Bills Kelly,Neville Gallimore,DAL,DT ,34
+2020,5.23,90,Córdoba Gunslingers Favre,Harrison Bryant,CLE,TE,56
+2020,5.24,91,Malaka Reed Poe,Tyrie Cleveland,DEN,WR,19
+2020,5.25,92,Isma Ray Ravens,A.J. Terrell,ATL,CB ,94
+2020,6.01,93,Córdoba Gunslingers Favre,Tyler Bass,BUF,PK,167
+2020,6.02,94,Indiana James,Shaquille Quarterman,JAC,LB,6
+2020,6.03,95,Darko LaDainian Texas *,Jalen Hurts,PHI,QB,121
+2020,6.04,96,Vlc Tigers Watt's,Collin Johnson,JAC,WR,53
+2020,6.05,97,El Predicador Almogávar,Sam Sloman,TEN,PK,58
+2020,6.06,98,GronkSpike,Dalton Keene,NEP,TE,6
+2020,6.07,99,Zgz Marino Phins,Jonathan Greenard,HOU,LB,23
+2020,6.08,100,Córdoba Gunslingers Favre,Kamal Martin,GBP,LB,31
+2020,6.09,101,Javier Big Ben Steelers,Willie Gay,KCC,LB,52
+2020,6.1,102,Malaka Reed Poe,Carlos Davis,PIT,DT ,8
+2020,6.11,103,Pittsburgh Terror Lambert,Terrell Burgess,LAR,S,9
+2020,6.12,104,San Joe Montana 49ers,Jaylon Johnson,CHI,CB ,59
+2020,6.13,105,Jrz French Faulk's,J.J. Taylor,NEP,RB,15
+2020,6.14,106,Triana Bills Kelly,Isaiah Coulter,HOU,WR,0
+2020,6.15,107,Isma Ray Ravens,Terrell Lewis,LAR,DE,14
+2020,6.16,108,The Adam's Family,Kristian Fulton,TEN,CB ,29
+2020,6.17,109,The Adam's Family,Raekwon Davis,MIA,DT ,36
+2020,7.01,110,Malaka Reed Poe,Jason Huntley,PHI,RB,4
+2020,7.02,111,Indiana James,Julian Blackmon,IND,S,64
+2020,7.03,112,The Adam's Family,McTelvin Agim,DEN,DT ,8
+2020,7.04,113,Vlc Tigers Watt's,Tanner Muse,LVR,LB,-
+2020,7.05,114,El Predicador Almogávar,K.J. Hill,LAC,WR,17
+2020,7.06,115,GronkSpike,Joe Reed,LAC,WR,25
+2020,7.07,116,Zgz Marino Phins,Malcolm Perry,MIA,WR,25
+2020,7.08,117,El Predicador Almogávar,Alex Highsmith,PIT,DE,61
+2020,7.09,118,Javier Big Ben Steelers,Raymond Calais,LAR,RB,3
+2020,7.1,119,Isma Ray Ravens,Brycen Hopkins,LAR,TE,0
+2020,7.11,120,Pittsburgh Terror Lambert,Noah Igbinoghene,MIA,CB ,20
+2020,7.12,121,El Predicador Almogávar,Davon Hamilton,JAC,DT ,35
+2020,7.13,122,Jrz French Faulk's,Jason Strowbridge,MIA,DE,5
+2020,7.14,123,Triana Bills Kelly,Amik Robertson,LVR,CB ,4
+2020,7.15,124,Smith's Terrible Showdown,K'Von Wallace,PHI,S,23
+2020,7.16,125,The Adam's Family,Jabari Zuniga,NYJ,DE,5
+2021,1.01,1,Indiana James,Kyle Pitts,ATL,TE,147
+2021,1.02,2,Pittsburgh Terror Lambert,Ja'Marr Chase,CIN,WR,270
+2021,1.03,3,Córdoba Gunslingers Favre,Najee Harris,PIT,RB,265
+2021,1.04,4,The Adam's Family,Travis Etienne,JAC,RB,-
+2021,1.05,5,Zgz Marino Phins,Trevor Lawrence,JAC,QB,203
+2021,1.06,6,San Joe Montana 49ers,Javonte Williams,DEN,RB,182
+2021,1.07,7,Javier Big Ben Steelers,DeVonta Smith,PHI,WR,158
+2021,1.08,8,Malaka Reed Poe,Rashod Bateman,BAL,WR,81
+2021,1.09,9,GronkSpike,Elijah Moore,NYJ,WR,125
+2021,1.1,10,Mile High Champ's,Rondale Moore,ARI,WR,106
+2021,1.11,11,Nafarroa Bills Kelly,Jaylen Waddle,MIA,WR,194
+2021,1.12,12,Pittsburgh Terror Lambert,Justin Fields,CHI,QB,137
+2021,1.13,13,Mile High Champ's,Trey Sermon,SFO,RB,29
+2021,1.14,14,Smith's Terrible Showdown,Amon-Ra St. Brown,DET,WR,165
+2021,1.15,15,Vlc Tigers Watt's,Micah Parsons,DAL,LB,167
+2021,1.16,16,Isma Ray Ravens,Trey Lance,SFO,QB,74
+2021,2.01,17,Indiana James,Zach Wilson,NYJ,QB,157
+2021,2.02,18,Nafarroa Bills Kelly,Chuba Hubbard,CAR,RB,117
+2021,2.03,19,Córdoba Gunslingers Favre,Terrace Marshall,CAR,WR,28
+2021,2.04,20,The Adam's Family,Zaven Collins,ARI,LB,26
+2021,2.05,21,Zgz Marino Phins,Kadarius Toney,NYG,WR,66
+2021,2.06,22,San Joe Montana 49ers,Mac Jones,NEP,QB,256
+2021,2.07,23,Javier Big Ben Steelers,Michael Carter,NYJ,RB,142
+2021,2.08,24,Malaka Reed Poe,Tylan Wallace,BAL,WR,14
+2021,2.09,25,El Predicador Almogávar,Nico Collins,HOU,WR,64
+2021,2.1,26,Mile High Champ's,Pat Freiermuth,PIT,TE,118
+2021,2.11,27,Nafarroa Bills Kelly,D'Wayne Eskridge,SEA,WR,28
+2021,2.12,28,El Predicador Almogávar,Amari Rodgers,GBP,WR,19
+2021,2.13,29,Jrz French Faulk's,Gregory Rousseau,BUF,DE,77
+2021,2.14,30,Smith's Terrible Showdown,Kenneth Gainwell,PHI,RB,98
+2021,2.15,31,Nafarroa Bills Kelly,Brevin Jordan,HOU,TE,50
+2021,2.16,32,Mile High Champ's,Patrick Surtain II,DEN,CB ,96
+2021,3.01,33,Indiana James,Jeremiah Owusu-Koramoah,CLE,LB,85
+2021,3.02,34,Pittsburgh Terror Lambert,Kwity Paye,IND,DE,50
+2021,3.03,35,Córdoba Gunslingers Favre,Demetric Felton,CLE,RB,53
+2021,3.04,36,The Adam's Family,Jamin Davis,WAS,LB,69
+2021,3.05,37,Zgz Marino Phins,Jaelan Phillips,MIA,DE,80
+2021,3.06,38,San Joe Montana 49ers,Dyami Brown,WAS,WR,28
+2021,3.07,39,Nafarroa Bills Kelly,Nick Bolton,KCC,LB,114
+2021,3.08,40,Malaka Reed Poe,Rhamondre Stevenson,NEP,RB,107
+2021,3.09,41,GronkSpike,Jayson Oweh,BAL,LB,66
+2021,3.1,42,Mile High Champ's,Kylin Hill,GBP,RB,11
+2021,3.11,43,Nafarroa Bills Kelly,Javian Hawkins,FA,RB,-
+2021,3.12,44,GronkSpike,Josh Palmer,LAC,WR,72
+2021,3.13,45,Isma Ray Ravens,Khalil Herbert,CHI,RB,90
+2021,3.14,46,Smith's Terrible Showdown,Caleb Farley,TEN,CB ,5
+2021,3.15,47,Vlc Tigers Watt's,Cornell Powell,KCC,WR,-
+2021,3.16,48,Isma Ray Ravens,Tyson Campbell,JAC,CB ,75
+2021,4.01,49,Indiana James,Pete Werner,NOS,LB,61
+2021,4.02,50,Pittsburgh Terror Lambert,Jaycee Horn,CAR,CB ,10
+2021,4.03,51,Córdoba Gunslingers Favre,Eric Stokes,GBP,CB ,67
+2021,4.04,52,The Adam's Family,Christian Barmore,NEP,DT ,47
+2021,4.05,53,Zgz Marino Phins,Richie Grant,ATL,S,43
+2021,4.06,54,San Joe Montana 49ers,Joseph Ossai,CIN,DE,-
+2021,4.07,55,Javier Big Ben Steelers,Greg Newsome,CLE,CB ,42
+2021,4.08,56,Malaka Reed Poe,Azeez Ojulari,NYG,LB,86
+2021,4.09,57,El Predicador Almogávar,Kyle Trask,TBB,QB,-
+2021,4.1,58,Mile High Champ's,Tutu Atwell,LAR,WR,5
+2021,4.11,59,Nafarroa Bills Kelly,Payton Turner,NOS,DE,20
+2021,4.12,60,GronkSpike,Anthony Schwartz,CLE,WR,40
+2021,4.13,61,Jrz French Faulk's,Andre Cisco,JAC,S,25
+2021,4.14,62,San Joe Montana 49ers,Tommy Tremble,CAR,TE,47
+2021,4.15,63,Pittsburgh Terror Lambert,Elijah Mitchell,SFO,RB,149
+2021,4.16,64,Isma Ray Ravens,Trevon Moehrig,LVR,S,59
+2021,5.01,65,Indiana James,Kylen Granson,IND,TE,21
+2021,5.02,66,Pittsburgh Terror Lambert,Jabril Cox,DAL,LB,2
+2021,5.03,67,Córdoba Gunslingers Favre,Isaiah McDuffie,GBP,LB,1
+2021,5.04,68,The Adam's Family,Carlos Basham,BUF,DE,27
+2021,5.05,69,Zgz Marino Phins,Jaret Patterson,WAS,RB,49
+2021,5.06,70,San Joe Montana 49ers,Davis Mills,HOU,QB,154
+2021,5.07,71,Javier Big Ben Steelers,Larry Rountree,LAC,RB,21
+2021,5.08,72,Malaka Reed Poe,Kellen Mond,MIN,QB,0
+2021,5.09,73,El Predicador Almogávar,Buddy Johnson,PIT,LB,2
+2021,5.1,74,Mile High Champ's,Seth Williams,DEN,WR,4
+2021,5.11,75,Nafarroa Bills Kelly,Jevon Holland,MIA,S,94
+2021,5.12,76,GronkSpike,Ernest Jones,LAR,LB,71
+2021,5.13,77,Jrz French Faulk's,Hunter Long,MIA,TE,2
+2021,5.14,78,Smith's Terrible Showdown,Daviyon Nixon,CAR,DT ,10
+2021,5.15,79,Vlc Tigers Watt's,Talanoa Hufanga,SFO,S,34
+2021,5.16,80,Isma Ray Ravens,Dez Fitzpatrick,TEN,WR,16
+2021,6.01,81,Indiana James,Jermar Jefferson,DET,RB,24
+2021,6.02,82,Pittsburgh Terror Lambert,Tre Nixon,NEP,WR,-
+2021,6.03,83,Córdoba Gunslingers Favre,Ian Book,NOS,QB,2
+2021,6.04,84,The Adam's Family,Luke Farrell,JAC,TE,13
+2021,6.05,85,Zgz Marino Phins,Chazz Surratt,MIN,LB,0
+2021,6.06,86,San Joe Montana 49ers,Jaelon Darden,TBB,WR,23
+2021,6.07,87,Javier Big Ben Steelers,Levi Onwuzurike,DET,DT ,39
+2021,6.08,88,Malaka Reed Poe,Joe Tryon,TBB,LB,47
+2021,6.09,89,El Predicador Almogávar,Patrick Jones,MIN,DE,6
+2021,6.1,90,Mile High Champ's,Gerrid Doaks,MIA,RB,0
+2021,6.11,91,Nafarroa Bills Kelly,Asante Samuel,LAC,CB ,58
+2021,6.12,92,GronkSpike,Tre' McKitty,LAC,TE,9
+2021,6.13,93,Jrz French Faulk's,Sam Ehlinger,IND,QB,1
+2021,6.14,94,Smith's Terrible Showdown,Ronnie Perkins,NEP,LB,-
+2021,6.15,95,Vlc Tigers Watt's,Quincy Roche,NYG,LB,51
+2021,6.16,96,Isma Ray Ravens,Milton Williams,PHI,DT ,40
+2021,7.01,97,Indiana James,Rakeem Boyd,FA,RB,-
+2021,7.02,98,Pittsburgh Terror Lambert,Evan McPherson,CIN,PK,162
+2021,7.03,99,Córdoba Gunslingers Favre,Tamorrion Terry,FA,WR,-
+2021,7.04,100,The Adam's Family,Paulson Adebo,NOS,CB ,84
+2021,7.05,101,Zgz Marino Phins,Dayo Odeyingbo,IND,DE,10
+2021,7.06,102,San Joe Montana 49ers,Kelvin Joseph,DAL,CB ,12
+2021,7.07,103,Javier Big Ben Steelers,Baron Browning,DEN,LB,48
+2021,7.08,104,Malaka Reed Poe,Simi Fehoko,DAL,WR,0
+2021,7.09,105,El Predicador Almogávar,Sage Surratt,FA,WR,-
+2021,7.1,106,Mile High Champ's,Malcolm Koonce,LVR,DE,12
+2021,7.11,107,Nafarroa Bills Kelly,Divine Deablo,LVR,S,38
+2021,7.12,108,GronkSpike,John Bates,WAS,TE,48
+2021,7.13,109,Jrz French Faulk's,Jay Tufele,JAC,DT ,1
+2021,7.14,110,Smith's Terrible Showdown,Marquez Stevenson,BUF,WR,10
+2021,7.15,111,Vlc Tigers Watt's,Chris Evans,CIN,RB,36
+2021,7.16,112,Isma Ray Ravens,Dylan Moses,JAC,LB,0
+2022,1.01,1,Malaka Reed Poe,Breece Hall,NYJ,RB,109
+2022,1.02,2,El Predicador Almogávar,James Cook,BUF,RB,93
+2022,1.03,3,Mile High Champ's,Treylon Burks,TEN,WR,77
+2022,1.04,4,The Adam's Family,Kenneth Walker III,SEA,RB,182
+2022,1.05,5,El Predicador Almogávar,Aidan Hutchinson,DET,DE,152
+2022,1.06,6,Córdoba Gunslingers Favre,Jameson Williams,DET,WR,15
+2022,1.07,7,Cowher Straight Outta Albacete,Garrett Wilson,NYJ,WR,166
+2022,1.08,8,Snake Stabler Raiders,Drake London,ATL,WR,139
+2022,1.09,9,Nafarroa Bills Kelly,Trey McBride,ARI,TE,56
+2022,1.1,10,Javier Big Ben Steelers,Kyle Hamilton,BAL,S,116
+2022,1.11,11,Smith's Terrible Showdown,Chris Olave,NOS,WR,162
+2022,1.12,12,Isma Ray Ravens,Devin Lloyd,JAC,LB,133
+2022,1.13,13,Pittsburgh Terror Lambert,George Pickens,PIT,WR,131
+2022,1.14,14,GronkSpike,Christian Watson,GBP,WR,135
+2022,1.15,15,Medina Allen Bills,Kayvon Thibodeaux,NYG,LB,126
+2022,1.16,16,Vlc Tigers Watt's,Travon Walker,JAC,DE,99
+2022,1.17,17,Mile High Champ's,Skyy Moore,KCC,WR,45
+2022,2.01,18,Malaka Reed Poe,Kenny Pickett,PIT,QB,154
+2022,2.02,19,El Predicador Almogávar,Desmond Ridder,ATL,QB,24
+2022,2.03,20,Mile High Champ's,Nakobe Dean,PHI,LB,19
+2022,2.04,21,The Adam's Family,Jordan Davis,PHI,DT ,36
+2022,2.05,22,Indiana James,Alec Pierce,IND,WR,92
+2022,2.06,23,Córdoba Gunslingers Favre,Matt Corral,CAR,QB,-
+2022,2.07,24,Cowher Straight Outta Albacete,Dameon Pierce,HOU,RB,158
+2022,2.08,25,Snake Stabler Raiders,Malik Willis,TEN,QB,22
+2022,2.09,26,Nafarroa Bills Kelly,Isaiah Spiller,LAC,RB,7
+2022,2.1,27,Javier Big Ben Steelers,George Karlaftis,KCC,DE,113
+2022,2.11,28,Smith's Terrible Showdown,Devonte Wyatt,GBP,DE,26
+2022,2.12,29,Isma Ray Ravens,Jahan Dotson,WAS,WR,111
+2022,2.13,30,Pittsburgh Terror Lambert,Rachaad White,TBB,RB,135
+2022,2.14,31,GronkSpike,David Bell,CLE,WR,44
+2022,2.15,32,Medina Allen Bills,Greg Dulcich,DEN,TE,71
+2022,2.16,33,Vlc Tigers Watt's,Justyn Ross,KCC,WR,-
+2022,2.17,34,Malaka Reed Poe,Jeremy Ruckert,NYJ,TE,0
+2022,2.18,35,El Predicador Almogávar,Quay Walker,GBP,LB,159
+2022,3.01,36,Malaka Reed Poe,Logan Hall,TBB,DE,41
+2022,3.02,37,El Predicador Almogávar,Jelani Woods,IND,TE,65
+2022,3.03,38,Mile High Champ's,Wan'Dale Robinson,NYG,WR,43
+2022,3.04,39,The Adam's Family,Lewis Cine,MIN,S,0
+2022,3.05,40,Indiana James,Calvin Austin III,PIT,WR,-
+2022,3.06,41,Córdoba Gunslingers Favre,Derek Stingley Jr.,HOU,CB ,83
+2022,3.07,42,Cowher Straight Outta Albacete,Jermaine Johnson,NYJ,DE,67
+2022,3.08,43,Snake Stabler Raiders,Tyler Allgeier,ATL,RB,146
+2022,3.09,44,Nafarroa Bills Kelly,Chad Muma,JAC,LB,55
+2022,3.1,45,Javier Big Ben Steelers,Ahmad Gardner,NYJ,CB ,163
+2022,3.11,46,Smith's Terrible Showdown,Cade Otton,TBB,TE,86
+2022,3.12,47,Isma Ray Ravens,Jalen Tolbert,DAL,WR,3
+2022,3.13,48,Pittsburgh Terror Lambert,John Metchie,HOU,WR,-
+2022,3.14,49,GronkSpike,Brian Robinson,WAS,RB,112
+2022,3.15,50,El Predicador Almogávar,Leo Chenal,KCC,LB,39
+2022,3.16,51,Vlc Tigers Watt's,Daxton Hill,CIN,S,21
+2022,3.17,52,Smith's Terrible Showdown,DeMarvin Leal,PIT,DT ,40
+2022,3.18,53,Cowher Straight Outta Albacete,Troy Andersen,ATL,LB,75
+2022,4.01,54,Malaka Reed Poe,Kaiir Elam,BUF,CB ,77
+2022,4.02,55,El Predicador Almogávar,Jalen Pitre,HOU,S,239
+2022,4.03,56,Mile High Champ's,Romeo Doubs,GBP,WR,86
+2022,4.04,57,The Adam's Family,Khalil Shakir,BUF,WR,33
+2022,4.05,58,Isma Ray Ravens,Tyrion Davis-Price,SFO,RB,7
+2022,4.06,59,Córdoba Gunslingers Favre,Nik Bonitto,DEN,DE,33
+2022,4.07,60,Cowher Straight Outta Albacete,Tyquan Thornton,NEP,WR,61
+2022,4.08,61,Snake Stabler Raiders,Channing Tindall,MIA,LB,2
+2022,4.09,62,Nafarroa Bills Kelly,David Ojabo,BAL,DE,0
+2022,4.1,63,Javier Big Ben Steelers,Travis Jones,BAL,DT ,57
+2022,4.11,64,Smith's Terrible Showdown,Trent McDuffie,KCC,CB ,71
+2022,4.12,65,Isma Ray Ravens,Jaquan Brisker,CHI,S,168
+2022,4.13,66,Pittsburgh Terror Lambert,Zamir White,LVR,RB,6
+2022,4.14,67,GronkSpike,Arnold Ebiketie,ATL,LB,77
+2022,4.15,68,Medina Allen Bills,Sam Howell,WAS,QB,-
+2022,4.16,69,Vlc Tigers Watt's,Andrew Booth,MIN,CB ,19
+2022,5.01,70,Malaka Reed Poe,Danny Gray,SFO,WR,4
+2022,5.02,71,El Predicador Almogávar,Kyren Williams,LAR,RB,35
+2022,5.03,72,Mile High Champ's,Bryan Cook,KCC,S,60
+2022,5.04,73,The Adam's Family,Hassan Haskins,TEN,RB,51
+2022,5.05,74,Indiana James,Boye Mafe,SEA,DE,72
+2022,5.06,75,Córdoba Gunslingers Favre,Jake Ferguson,DAL,TE,44
+2022,5.07,76,Cowher Straight Outta Albacete,Drake Jackson,SFO,DE,76
+2022,5.08,77,Snake Stabler Raiders,Christian Harris,HOU,LB,94
+2022,5.09,78,Nafarroa Bills Kelly,Velus Jones,CHI,WR,36
+2022,5.1,79,Javier Big Ben Steelers,Daniel Bellinger,NYG,TE,63
+2022,5.11,80,Smith's Terrible Showdown,Phidarian Mathis,WAS,DT ,0
+2022,5.12,81,Isma Ray Ravens,Sam Williams,DAL,DE,83
+2022,5.13,82,Pittsburgh Terror Lambert,Josh Paschal,DET,DE,38
+2022,5.14,83,Snake Stabler Raiders,Cameron Thomas,ARI,DE,42
+2022,5.15,84,Medina Allen Bills,Pierre Strong Jr.,NEP,S,39
+2022,5.16,85,Vlc Tigers Watt's,Grant Calcaterra,PHI,TE,12
+2022,5.17,86,GronkSpike,Alex Wright,CLE,DE,50
+2022,5.18,87,Isma Ray Ravens,Kyler Gordon,CHI,CB ,140
+2022,6.01,88,Malaka Reed Poe,Charlie Kolar,BAL,TE,0
+2022,6.02,89,El Predicador Almogávar,Kyle Philips,TEN,WR,13
+2022,6.03,90,Mile High Champ's,Keaontay Ingram,ARI,RB,15
+2022,6.04,91,The Adam's Family,Isaiah Likely,BAL,TE,62
+2022,6.05,92,Indiana James,JT Woods,LAC,S,5
+2022,6.06,93,Córdoba Gunslingers Favre,Bo Melton,GBP,WR,-
+2022,6.07,94,Cowher Straight Outta Albacete,Nick Cross,IND,S,24
+2022,6.08,95,Snake Stabler Raiders,Brian Asamoah,MIN,LB,22
+2022,6.09,96,Nafarroa Bills Kelly,Roger McCreary,TEN,CB ,148
+2022,6.1,97,Javier Big Ben Steelers,Damone Clark,DAL,LB,50
+2022,6.11,98,Smith's Terrible Showdown,DeAngelo Malone,ATL,LB,46
+2022,6.12,99,Isma Ray Ravens,Cade York,CLE,PK,132
+2022,6.13,100,Pittsburgh Terror Lambert,Cordale Flott,NYG,CB ,38
+2022,6.14,101,GronkSpike,Erik Ezukanma,MIA,WR,-
+2022,6.15,102,Medina Allen Bills,Micah McFadden,NYG,LB,67
+2022,6.16,103,Vlc Tigers Watt's,Kennedy Brooks,PHI,RB,-
+2022,6.17,104,Nafarroa Bills Kelly,Terrel Bernard,BUF,LB,16
+2022,7.01,105,Malaka Reed Poe,Jonathan Garibay,FA,PK,-
+2022,7.02,106,El Predicador Almogávar,Martin Emerson,CLE,CB ,124
+2022,7.03,107,Mile High Champ's,Snoop Conner,JAC,RB,13
+2022,7.04,108,The Adam's Family,Kevin Harris,NEP,RB,12
+2022,7.05,109,Indiana James,Marcus Jones,NEP,CB ,150
+2022,7.06,110,Córdoba Gunslingers Favre,Charleston Rambo,FA,WR,-
+2022,7.07,111,Cowher Straight Outta Albacete,Tyler Badie,DEN,RB,-
+2022,7.08,112,GronkSpike,Jerome Ford,CLE,RB,20
+2022,7.09,113,Nafarroa Bills Kelly,Carson Strong,FA,QB,-
+2022,7.1,114,Javier Big Ben Steelers,Gabe Brkic,FA,PK,-
+2022,7.11,115,Smith's Terrible Showdown,Perrion Winfrey,CLE,DT ,42
+2022,7.12,116,Isma Ray Ravens,Abram Smith,FA,RB,-
+2022,7.13,117,Pittsburgh Terror Lambert,Connor Heyward,PIT,TE,37
+2022,7.14,118,GronkSpike,Malcolm Rodriguez,DET,LB,136
+2022,7.15,119,Medina Allen Bills,Brandon Smith,CAR,LB,10
+2022,7.16,120,Vlc Tigers Watt's,Chigoziem Okonkwo,TEN,TE,86
+2023,1.01,1,El Predicador Almogávar,Bijan Robinson,ATL,RB,-
+2023,1.02,2,Jerry 49ers Rice,Jahmyr Gibbs,DET,RB,-
+2023,1.03,3,Córdoba Gunslingers Favre,Bryce Young,CAR,QB,-
+2023,1.04,4,Malaka Reed Poe,Anthony Richardson,IND,QB,-
+2023,1.05,5,Medina Allen Bills,C.J. Stroud,HOU,QB,-
+2023,1.06,6,Cowher Straight Outta Albacete,Jaxon Smith-Njigba,SEA,WR,-
+2023,1.07,7,The Adam's Family,Dalton Kincaid,BUF,TE,-
+2023,1.08,8,GronkSpike,Quentin Johnston,LAC,WR,-
+2023,1.09,9,Vlc Tigers Watt's,Will Anderson,HOU,DE,-
+2023,1.10,10,Javier Big Ben Steelers,Jordan Addison,MIN,WR,-
+2023,1.11,11,Snake Stabler Raiders,Zay Flowers,BAL,WR,-
+2023,1.12,12,Smith's Terrible Showdown,Deonte Banks,NYG,CB ,-
+2023,1.13,13,Mile High Champ's,Devon Achane,MIA,RB,-
+2023,1.14,14,Pittsburgh Terror Lambert,Jack Campbell,DET,LB,-
+2023,1.15,15,Isma Ray Ravens,Zach Charbonnet,SEA,RB,-
+2023,1.16,16,Nafarroa Bills Kelly,Michael Mayer,LVR,TE,-
+2023,1.17,17,Cowher Straight Outta Albacete,Sam LaPorta,DET,TE,-
+2023,1.18,18,GronkSpike,Israel Abanikanda,NYJ,RB,-
+2023,1.19,19,Snake Stabler Raiders,Jalen Carter,PHI,DT ,-
+2023,1.20,20,Medina Allen Bills,Luke Musgrave,GBP,TE,-
+2023,2.01,21,El Predicador Almogávar,Jonathan Mingo,CAR,WR,-
+2023,2.02,22,Medina Allen Bills,Tyree Wilson,LVR,DE,-
+2023,2.03,23,Córdoba Gunslingers Favre,Kendre Miller,NOS,RB,-
+2023,2.04,24,Malaka Reed Poe,Devon Witherspoon,SEA,CB ,-
+2023,2.05,25,Medina Allen Bills,Christian Gonzalez,NEP,CB ,-
+2023,2.06,26,Cowher Straight Outta Albacete,Calijah Kancey,TBB,DT ,-
+2023,2.07,27,The Adam's Family,Lukas Van Ness,GBP,DE,-
+2023,2.08,28,GronkSpike,Rashee Rice,KCC,WR,-
+2023,2.09,29,Vlc Tigers Watt's,Bryan Bresee,NOS,DT ,-
+2023,2.10,30,Javier Big Ben Steelers,Brian Branch,DET,S,-
+2023,2.11,31,Snake Stabler Raiders,Will Levis,TEN,QB,-
+2023,2.12,32,El Predicador Almogávar,Jayden Reed,GBP,WR,-
+2023,2.13,33,Mile High Champ's,Drew Sanders,DEN,LB,-
+2023,2.14,34,Pittsburgh Terror Lambert,Nolan Smith,PHI,DE,-
+2023,2.15,35,Isma Ray Ravens,Roschon Johnson,CHI,RB,-
+2023,2.16,36,Nafarroa Bills Kelly,Tyjae Spears,TEN,RB,-
+2023,3.01,37,Smith's Terrible Showdown,BJ Ojulari,ARI,DE,-
+2023,3.02,38,Javier Big Ben Steelers,Myles Murphy,CIN,DE,-
+2023,3.03,39,Córdoba Gunslingers Favre,Zach Evans,LAR,RB,-
+2023,3.04,40,Malaka Reed Poe,Cam Smith,MIA,CB ,-
+2023,3.05,41,Medina Allen Bills,Jordan Battle,CIN,S,-
+2023,3.06,42,Cowher Straight Outta Albacete,Joey Porter Jr.,PIT,CB ,-
+2023,3.07,43,The Adam's Family,Mazi Smith,DAL,DT ,-
+2023,3.08,44,Jerry 49ers Rice,Marvin Mims,DEN,WR,-
+2023,3.09,45,Vlc Tigers Watt's,Trenton Simpson,BAL,LB,-
+2023,3.10,46,Javier Big Ben Steelers,Tank Bigsby,JAC,RB,-
+2023,3.11,47,Snake Stabler Raiders,Emmanuel Forbes,WAS,CB ,-
+2023,3.12,48,Smith's Terrible Showdown,Derick Hall,SEA,DE,-
+2023,3.13,49,Mile High Champ's,Josh Downs,IND,WR,-
+2023,3.14,50,Pittsburgh Terror Lambert,Keeanu Benton,PIT,DT ,-
+2023,3.15,51,Isma Ray Ravens,Cedric Tillman,CLE,WR,-
+2023,3.16,52,Nafarroa Bills Kelly,Daiyan Henley,LAC,LB,-
+2023,4.01,53,El Predicador Almogávar,Hendon Hooker,DET,QB,-
+2023,4.02,54,Jerry 49ers Rice,Jalin Hyatt,NYG,WR,-
+2023,4.03,55,Córdoba Gunslingers Favre,Darnell Washington,PIT,TE,-
+2023,4.04,56,Malaka Reed Poe,Jartavius Martin,WAS,S,-
+2023,4.05,57,Jerry 49ers Rice,Chase Brown,CIN,RB,-
+2023,4.06,58,Cowher Straight Outta Albacete,Luke Schoonmaker,DAL,TE,-
+2023,4.07,59,The Adam's Family,Henry To'oTo'o,HOU,LB,-
+2023,4.08,60,GronkSpike,Felix Anudike-Uzomah,KCC,DE,-
+2023,4.09,61,Vlc Tigers Watt's,Kayshon Boutte,NEP,WR,-
+2023,4.10,62,Javier Big Ben Steelers,Keion White,NEP,DT ,-
+2023,4.11,63,Snake Stabler Raiders,Julius Brents,IND,CB ,-
+2023,4.12,64,Javier Big Ben Steelers,Xavier Hutchinson,HOU,WR,-
+2023,4.13,65,Mile High Champ's,Ji'Ayir Brown,SFO,S,-
+2023,4.14,66,Pittsburgh Terror Lambert,Eric Gray,NYG,RB,-
+2023,4.15,67,Isma Ray Ravens,Sydney Brown,PHI,S,-
+2023,4.16,68,Nafarroa Bills Kelly,Marte Mapu,NEP,S,-
+2023,5.01,69,El Predicador Almogávar,Chad Ryland,NEP,PK,-
+2023,5.02,70,Javier Big Ben Steelers,DJ Turner,CIN,CB ,-
+2023,5.03,71,Córdoba Gunslingers Favre,Tuli Tuipulotu,LAC,DE,-
+2023,5.04,72,Malaka Reed Poe,Chris Rodriguez,WAS,RB,-
+2023,5.05,73,Medina Allen Bills,Nathaniel Dell,HOU,WR,-
+2023,5.06,74,Cowher Straight Outta Albacete,Kelee Ringo,PHI,CB ,-
+2023,5.07,75,The Adam's Family,Siaki Ika,CLE,DT ,-
+2023,5.08,76,GronkSpike,Byron Young,LAR,DE,-
+2023,5.09,77,Vlc Tigers Watt's,Deuce Vaughn,DAL,RB,-
+2023,5.10,78,Isma Ray Ravens,Michael Wilson,ARI,WR,-
+2023,5.11,79,Snake Stabler Raiders,Isaiah Foskey,NOS,DE,-
+2023,5.12,80,Smith's Terrible Showdown,Dorian Williams,BUF,LB,-
+2023,5.13,81,Mile High Champ's,DeWayne McBride,MIN,RB,-
+2023,5.14,82,Pittsburgh Terror Lambert,Tyrique Stevenson,CHI,CB ,-
+2023,5.15,83,Isma Ray Ravens,Antonio Johnson,JAC,S,-
+2023,5.16,84,Nafarroa Bills Kelly,Brenton Strange,JAC,TE,-
+2023,6.01,85,El Predicador Almogávar,Stetson Bennett,LAR,QB,-
+2023,6.02,86,Jerry 49ers Rice,A.T. Perry,NOS,WR,-
+2023,6.03,87,Córdoba Gunslingers Favre,Anthony Johnson,GBP,S,-
+2023,6.04,88,Malaka Reed Poe,Noah Sewell,CHI,LB,-
+2023,6.05,89,Medina Allen Bills,Zach Harrison,ATL,DE,-
+2023,6.06,90,Cowher Straight Outta Albacete,DeMarvion Overshown,DAL,LB,-
+2023,6.07,91,The Adam's Family,Clayton Tune,ARI,QB,-
+2023,6.08,92,GronkSpike,Puka Nacua,LAR,WR,-
+2023,6.09,93,Vlc Tigers Watt's,Davis Allen,LAR,TE,-
+2023,6.10,94,GronkSpike,Kobie Turner,LAR,DT ,-
+2023,6.11,95,Snake Stabler Raiders,Gervon Dexter,CHI,DT ,-
+2023,6.12,96,Smith's Terrible Showdown,Jammie Robinson,CAR,S,-
+2023,6.13,97,Mile High Champ's,Elijah Higgins,MIA,TE,-
+2023,6.14,98,Pittsburgh Terror Lambert,Jay Ward,MIN,S,-
+2023,6.15,99,Isma Ray Ravens,Clark Phillips,ATL,CB ,-
+2023,6.16,100,Nafarroa Bills Kelly,Zacch Pickens,CHI,DT ,-
+2023,7.01,101,El Predicador Almogávar,Nick Herbig,PIT,DE,-
+2023,7.02,102,Jerry 49ers Rice,YaYa Diaby,TBB,DE,-
+2023,7.03,103,Córdoba Gunslingers Favre,Grant Dubose,GBP,WR,-
+2023,7.04,104,Malaka Reed Poe,Anders Carlson,GBP,PK,-
+2023,7.05,105,Medina Allen Bills,Cameron Latu,SFO,TE,-
+2023,7.06,106,Cowher Straight Outta Albacete,Christopher Dunn,LAR,PK,-
+2023,7.07,107,The Adam's Family,Adetomiwa Adebawore,IND,DE,-
+2023,7.08,108,GronkSpike,JL Skinner,DEN,S,-
+2023,7.09,109,Vlc Tigers Watt's,Max Duggan,LAC,QB,-
+2023,7.10,110,Jerry 49ers Rice,Zack Kuntz,NYJ,TE,-
+2023,7.11,111,Snake Stabler Raiders,Ventrell Miller,JAC,LB,-
+2023,7.12,112,Pittsburgh Terror Lambert,Byron Young,LVR,DT ,-
+2023,7.13,113,Mile High Champ's,Riley Moss,DEN,CB ,-
+2023,7.14,114,Pittsburgh Terror Lambert,Owen Pappoe,ARI,LB,-
+2023,7.15,115,Isma Ray Ravens,Sean Tucker,TBB,RB,-
+2023,7.16,116,Nafarroa Bills Kelly,Tre Tucker,LVR,WR,-
