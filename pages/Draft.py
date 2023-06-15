@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 
 df_Draft = pd.read_csv('Draft.csv',encoding='latin-1')
+df_Draft['Points']=df_Draft['Points'].replace({'-':'0'}).astype(int)
 st.title("DRAFT")
 
 
