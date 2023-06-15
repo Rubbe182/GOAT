@@ -9,8 +9,8 @@ st.title("Historial Partidos")
 st.sidebar.markdown('Historial Partidos Temporada Regular')
 
 Weeks = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14']
+Year = st.radio('Year:', ['All Seasons', 2019, 2020, 2021, 2022])
 Week = st.selectbox('Week:', ['All Weeks'] + Weeks)
-Year = st.selectbox('Year:', ['All Seasons', 2019, 2020, 2021, 2022])
 Teams = df_Games['Home_Team'].unique()
 
 Display_options = ['Completo', 'Selección Franquicia', 'Head to Head']
