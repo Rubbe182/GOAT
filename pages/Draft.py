@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-df_Draft = pd.read_csv('Draft.csv')
+df_Draft = pd.read_csv('Draft.csv',encoding='latin-1')
 st.title("DRAFT")
 
 # Mostrar la tabla en Streamlit
