@@ -19,7 +19,7 @@ df_Games_PO['Total']=df_Games_PO['Win']+df_Games_PO['Lose']
 df_Games_PO=df_Games_PO.set_index('Team')
 
 Week=['All Weeks','Divisional playoffs ','Conference Championship','GOAT Bowl']
-Year=['All Seasons',2019,2020,2021]
+Year=['All Seasons',2019,2020,2021,2022]
 Teams=df_Games.Home_Team.unique()
 Data=['Records','Games']
 position_choice_data = st.radio('', Data, horizontal=True)
