@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import plotly.express as px
+#import plotly.express as px
 import numpy as np
 
 
@@ -27,23 +27,23 @@ if position_choice_display=='Selección Franquicia':
     if position_choice_year=='All Seasons' and position_choice_week=='All Weeks':
         df_Games = df_Games.loc[(df_Games['Home_Team'].isin(position_choice_Team)) |
                                 (df_Games['Away_Team'].isin(position_choice_Team))]
-        st.dataframe(df_Games.style.hide_index(), width=2000)
+        st.dataframe(df_Games.style.set_table_styles([{'selector': 'tr', 'props': [('display', 'none')]}, {'selector': 'th.row_heading', 'props': [('display', 'none')]}]), width=2000)
     elif position_choice_week=='All Weeks':
         df_Games = df_Games.loc[(df_Games['Home_Team'].isin(position_choice_Team)) |
                                 (df_Games['Away_Team'].isin(position_choice_Team))]
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
-        st.dataframe(df_Games.style.hide_index(), width=2000)
+        st.dataframe(df_Games.style.set_table_styles([{'selector': 'tr', 'props': [('display', 'none')]}, {'selector': 'th.row_heading', 'props': [('display', 'none')]}]), width=2000)
     elif position_choice_year=='All Seasons':
         df_Games = df_Games.loc[(df_Games['Home_Team'].isin(position_choice_Team)) |
                                 (df_Games['Away_Team'].isin(position_choice_Team))]
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.dataframe(df_Games.style.hide_index(), width=2000)
+        st.dataframe(df_Games.style.set_table_styles([{'selector': 'tr', 'props': [('display', 'none')]}, {'selector': 'th.row_heading', 'props': [('display', 'none')]}]), width=2000)
     else:
         df_Games = df_Games.loc[(df_Games['Home_Team'].isin(position_choice_Team)) |
                                 (df_Games['Away_Team'].isin(position_choice_Team))]
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.dataframe(df_Games.style.hide_index(), width=2000)
+        st.dataframe(df_Games.style.set_table_styles([{'selector': 'tr', 'props': [('display', 'none')]}, {'selector': 'th.row_heading', 'props': [('display', 'none')]}]), width=2000)
 
 elif position_choice_display=='Head to Head':
     position_choice_Team1 = st.selectbox('Team 1:', Teams)
@@ -79,14 +79,14 @@ elif position_choice_display=='Head to Head':
 
 else:
     if position_choice_year=='All Seasons' and position_choice_week=='All Weeks':
-        st.dataframe(df_Games.style.hide_index(), width=2000)
+        st.dataframe(df_Games.style.set_table_styles([{'selector': 'tr', 'props': [('display', 'none')]}, {'selector': 'th.row_heading', 'props': [('display', 'none')]}]), width=2000)
     elif position_choice_week=='All Weeks':
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
-        st.dataframe(df_Games.style.hide_index(), width=2000)
+        st.dataframe(df_Games.style.set_table_styles([{'selector': 'tr', 'props': [('display', 'none')]}, {'selector': 'th.row_heading', 'props': [('display', 'none')]}]), width=2000)
     elif position_choice_year=='All Seasons':
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.dataframe(df_Games.style.hide_index(), width=2000)
+        st.dataframe(df_Games.style.set_table_styles([{'selector': 'tr', 'props': [('display', 'none')]}, {'selector': 'th.row_heading', 'props': [('display', 'none')]}]), width=2000)
     else:
         df_Games = df_Games[df_Games['Year']==(position_choice_year)]
         df_Games = df_Games[df_Games['Week']==(position_choice_week)]
-        st.dataframe(df_Games.style.hide_index(), width=2000)
+        st.dataframe(df_Games.style.set_table_styles([{'selector': 'tr', 'props': [('display', 'none')]}, {'selector': 'th.row_heading', 'props': [('display', 'none')]}]), width=2000)
