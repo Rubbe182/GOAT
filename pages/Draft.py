@@ -13,7 +13,7 @@ Franchise = ['All'] + list(df_Draft['Franchise'].unique())
 
 position_choice_year = st.radio('Year:', Year,horizontal=True)
 selected_position = st.selectbox('Position', Positions, index=0)
-selected_franchise = st.selectbox('Franchise', Positions, index=0)
+selected_franchise = st.selectbox('Franchise', Franchise, index=0)
 
 
 if position_choice_year != 'All Seasons':
