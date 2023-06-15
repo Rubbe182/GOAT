@@ -10,10 +10,11 @@ df_Games=df_Games[['Year','Week','Home_Team','Away_Team','Home_Points','Away_Poi
 Rounds=['Divisional playoffs ','Conference Championship','GOAT Bowl']
 df_Games=df_Games[df_Games.Week.isin(Rounds)]
 df_Games = df_Games.rename(columns={'Home_Points': 'H_P', 'Away_Points': 'A_P'})
-data = [['Darko LaDainian Texas *', 3,0], ['Isma Ray Ravens', 6,3], ["Jrz French Faulk's", 4,3],
+data = [['Darko LaDainian Texas *', 3,1], ['Isma Ray Ravens', 6,3], ["Jrz French Faulk's", 4,3],
         ['Javier Big Ben Steelers', 0,3], ['GronkSpike', 0,2], ["Pittsburgh Terror Lambert", 0,2],
-        ['Nafarroa Bills Kelly', 4,3], ['El Predicador Almogávar', 0,1], ["Smith's Terrible Showdown", 4,4],
-        ['Malaka Reed Poe', 0,1], ["Vlc Tigers Watt's", 6,2],["Mile High Champ's", 1,1],["Snake Stabler Raiders", 0,1]]
+        ['Nafarroa Bills Kelly', 3,1], ['El Predicador Almogávar', 0,1], ["Smith's Terrible Showdown", 4,4],
+        ['Malaka Reed Poe', 0,1], ["Vlc Tigers Watt's", 6,2],["Mile High Champ's", 1,1],
+        ["Snake Stabler Raiders", 0,1],['Triana Bills Kelly', 1,2]]
 df_Games_PO=pd.DataFrame(data,columns=['Team','Win','Lose'])
 df_Games_PO['Total']=df_Games_PO['Win']+df_Games_PO['Lose']
 df_Games_PO=df_Games_PO.set_index('Team')
