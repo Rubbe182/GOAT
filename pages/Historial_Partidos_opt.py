@@ -8,10 +8,16 @@ df_Games = df_Games[['Year', 'Week', 'Home_Team', 'Away_Team', 'Home_Points', 'A
 st.title("Historial Partidos")
 st.sidebar.markdown('Historial Partidos Temporada Regular')
 
-Weeks = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14']
-Year = st.radio('Year:', ['All Seasons', 2019, 2020, 2021, 2022])
-Week = st.selectbox('Week:', ['All Weeks'] + Weeks)
-Teams = df_Games['Home_Team'].unique()
+df_Games=df_Games[['Year','Week','Home_Team','Away_Team','Home_Points','Away_Points']]
+Weeks=['1','2','3','4','5','6','7','8','9','10','11','12','13','14']
+df_Games=df_Games[df_Games.Week.isin(Weeks)]
+
+Week=['All Weeks','1','2','3','4','5','6','7','8','9','10','11','12','13','14']
+Year=['All Seasons',2019,2020,2021,2022]
+Teams=df_Games.Home_Team.unique()
+
+position_choice_year = st.radio('Year:', Year,horizontal=True)
+position_choice_week = st.selectbox('Week:', Week)
 
 Display_options = ['Completo', 'Selección Franquicia', 'Head to Head']
 position_choice_display = st.radio('', Display_options)
