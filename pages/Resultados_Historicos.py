@@ -12,13 +12,13 @@ df_historica_agregada=pd.DataFrame()
 df_historica['Year']=df_clasification['Year']
 df_historica['Week']=df_clasification['Week']
 df_historica['Team']=df_clasification['Team']
-df_historica['Win'], df_historica['Lose'], df_historica['Tose'] = df_clasification['Record'].str.split('-', 2).str
+df_historica['Win'], df_historica['Lose'], df_historica['Tie'] = df_clasification['Record'].str.split('-', expand=True).str
 df_historica['Win']=df_historica['Win'].astype(float)
 df_historica['Lose']=df_historica['Lose'].astype(float)
 df_historica=df_historica[df_historica['Week']==13]
 
 Year=df_historica.Year.unique()
-Year=[2019,2020,2021,'Histórico']
+Year=[2019,2020,2021,2022,'Histórico']
 position_choice_year = st.radio('Year:', Year,horizontal=True)
 if position_choice_year == 'Histórico':
 
