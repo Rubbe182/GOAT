@@ -25,7 +25,7 @@ if selected_position != 'All':
     df_filtered = df_filtered[df_filtered['Position'] == selected_position]
 
 if selected_franchise != 'All':
-    df_filtered = df_filtered[df_filtered['Franchise'] == selected_position]
+    df_filtered = df_filtered[df_filtered['Franchise'] == selected_franchise]
 
 # Mostrar la tabla en Streamlit
 st.dataframe(df_filtered)
