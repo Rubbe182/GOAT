@@ -1,6 +1,9 @@
 import pandas as pd
 import streamlit as st
 
+st.set_page_config(
+        page_title="1. Temporada_Regular",
+)
 
 #READ DATA
 df_clasification = pd.read_csv('df_clasification.csv')
