@@ -37,7 +37,7 @@ if position_choice_year == 'Histórico':
     if position_choice_record=='Win':
         df_historica_agregada = df_historica_agregada.sort_values(by='Win', ascending=True)
         fig = px.bar(df_historica_agregada, x=['Win'], orientation='h',
-                     title="Historical Record", height=500, width=1000,
+                     title="Historical Record", height=700, width=1000,
                      labels={'value': 'Record'}, barmode='group')
         fig.update_layout(showlegend=False)
         fig.update_traces(marker_color='#349EF6', marker_line_color='rgb(8,48,107)',
